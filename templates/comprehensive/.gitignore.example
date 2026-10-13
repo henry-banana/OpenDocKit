@@ -1,0 +1,9 @@
+# Merge applicable rules with the recipient's existing policy.
+# Root anchoring keeps the same samples nested in this library visible.
+# Shared .agents/skills and client configuration are not blanket-ignored.
+/.agents/artifacts/
+/.agents/handoffs/
+/.agents/plans/
+/.agents/sessions/
+/.agents/tasks/
+/.claude/settings.local.json

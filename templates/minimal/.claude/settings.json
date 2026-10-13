@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(./.env)"
+    ]
+  },
+  "enabledPlugins": {
+    "project-review@team-marketplace": false
+  }
+}

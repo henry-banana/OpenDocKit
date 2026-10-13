@@ -1,0 +1,16 @@
+---
+inclusion: manual
+---
+
+# Project Task Routing
+
+Read the adopted project README and docs/README.md, then the relevant canonical concern. Verify the actual source checkout before commands or Git operations.
+
+For behavior changes, consult product/domain acceptance and contract authority. For structural changes, consult architecture and decision records. For data or operations, consult the corresponding current facts and risk controls.
+
+Follow the team's existing task/change authority. Report observed checks, pending/failed work, concrete blockers and next action. Preserve private continuity only in its selected local/workspace home. Do not treat raw history as current requirements.
+
+Project-specific command and owner values are filled in canonical project docs before use. This entry point adds no stack, remote plugin, approval exemption or universal read-all rule.
+
+
+For project/doc changes, consult docs/documentation-maintenance.md and the relevant docs/roles brief. Shared team specs/plans/tasks live in docs or the chosen tracker. Private resume context lives in .agents; shared .agents/skills is not a personal session store. Report actual evidence and keep closed history explicit.

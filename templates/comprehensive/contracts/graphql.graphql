@@ -1,0 +1,16 @@
+# OpenDocKit author guidance
+# ID: contracts.graphql
+# Purpose: start an explicitly unfinished GraphQL schema definition.
+# Use when: clients require a GraphQL contract.
+# Copy and adapt the fields. Replace Query's placeholder field with real operations,
+# document nullability/errors/auth expectations and check resolver behavior.
+# A syntactically valid placeholder is not an implemented query or public API.
+# Remove guidance and the replacement field before publishing the adopted schema.
+schema {
+  query: Query
+}
+
+type Query {
+  "Placeholder for authoring only; replace with the actual query interface."
+  _replaceMe: String
+}

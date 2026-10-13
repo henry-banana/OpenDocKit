@@ -1,0 +1,14 @@
+# OpenDocKit author guidance
+# ID: contracts.openapi
+# Purpose: start an HTTP interface contract without inventing operations or auth.
+# Use when: independent HTTP consumers need a machine-readable interface.
+# Copy to your contract location and adapt the fields. Replace title/version,
+# define real paths/schemas, and explicitly decide authentication and compatibility.
+# Keep narrative workflows in API docs; validate the adopted contract and behavior.
+# An empty paths map is a skeleton, not a claim that a service is implemented.
+openapi: 3.1.0
+info:
+  title: '{{API title}}'
+  version: '{{Contract version}}'
+  description: 'Authoring skeleton. Replace with the actual interface scope.'
+paths: {}

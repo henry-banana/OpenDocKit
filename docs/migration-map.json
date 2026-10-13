@@ -1,0 +1,5022 @@
+{
+  "version": "2.0.0-rc.1",
+  "scope": "Live manually edited source baseline; proposed v1 paths are not restored over these edits.",
+  "files": [
+    {
+      "source": "templates/AGENTS.md",
+      "sha256": "e11eba188b909e981d2a8e30c75e9fda9e20da8a0be2777a1fa94b79f6c8eb0d",
+      "bytes": 2045,
+      "targets": [
+        "templates-agent-workflow/comprehensive/AGENTS.md",
+        "templates-agent-workflow/minimal/AGENTS.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/ai-systems/dataset-governance.md",
+      "sha256": "b7cb30584a1594b1df47b3921569fa4a7dd9ce6d8276bc0fbf009ad66689e213",
+      "bytes": 2012,
+      "targets": [
+        "templates-ai/comprehensive/docs/ai-systems/dataset-governance.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/ai-systems/evaluation-plan.md",
+      "sha256": "ea1d3820c5557dd85c8a0b479f03d422ebdc775a2aa1ba888db65f646032172b",
+      "bytes": 2051,
+      "targets": [
+        "templates-ai/comprehensive/docs/ai-systems/evaluation-plan.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/ai-systems/model-risk.md",
+      "sha256": "41054e5ebb87b46ba9b1f22fc67d73b69ebe35ab6882818a46467a9945e38d15",
+      "bytes": 2018,
+      "targets": [
+        "templates-ai/comprehensive/docs/ai-systems/model-risk.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/ai-systems/model-selection.md",
+      "sha256": "bc7946f2efe652d39ccf9ff62aa574e80f2a0190580f2c71e815c3a3664e313d",
+      "bytes": 2042,
+      "targets": [
+        "templates-ai/comprehensive/docs/ai-systems/model-selection.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/ai-systems/monitoring.md",
+      "sha256": "319360c244f36f1ee4285fe445a6a793afd5cf7b981ea8e530ac619491cf8157",
+      "bytes": 2012,
+      "targets": [
+        "templates-ai/comprehensive/docs/ai-systems/monitoring.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/ai-systems/prompt-contracts.md",
+      "sha256": "4f122d8fb798db9d510216f3c40fbc5d3ecd4336b2cd1db4308baa5b428fb81c",
+      "bytes": 2043,
+      "targets": [
+        "templates-ai/comprehensive/docs/ai-systems/prompt-contracts.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/ai-systems/README.md",
+      "sha256": "3c263e0b7c65fc6f1925af746b3847b4a02f05e408bbacf237da55ffd13f1ace",
+      "bytes": 1550,
+      "targets": [
+        "INDEX.md"
+      ],
+      "disposition": "navigation-replaced",
+      "body_preserved": false,
+      "note": "Source navigation replaced by library index/recipient maps."
+    },
+    {
+      "source": "templates/ai-systems/system-overview.md",
+      "sha256": "8d552e875d3c095664f95a3bd5d8d548cbd6355d0b1932c9c7f6d8106f42b663",
+      "bytes": 2022,
+      "targets": [
+        "templates-ai/comprehensive/docs/ai-systems/system-overview.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/architecture/building-blocks.md",
+      "sha256": "d847d4a456df7467e948804b99bda351c3487b0db291fc0711bc968b216a4f9c",
+      "bytes": 2010,
+      "targets": [
+        "templates/comprehensive/docs/architecture/building-blocks.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/architecture/constraints.md",
+      "sha256": "f7362a8a72039d3e680b01c6764293d43375cb86f93b93139c62448aa138e9e6",
+      "bytes": 1959,
+      "targets": [
+        "templates/comprehensive/docs/architecture/constraints.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/architecture/crosscutting-concepts.md",
+      "sha256": "76db83c6cc2b8b5bc0337c011c480a619da14aca0411ef79e84a9856f633e676",
+      "bytes": 2003,
+      "targets": [
+        "templates/comprehensive/docs/architecture/crosscutting-concepts.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/architecture/decision-record.md",
+      "sha256": "d0068c873c7659abed96bead1f3dd9d951caa62ff203981dd1030f84c86717f8",
+      "bytes": 2024,
+      "targets": [
+        "templates/comprehensive/docs/decisions/ADR-0000.md",
+        "templates/minimal/docs/decisions/ADR-0000.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/architecture/deployment-view.md",
+      "sha256": "02ef3971935678abba53ad01e9e9f5943f51d6f7c3dac44d4b2890cd5248fccf",
+      "bytes": 2040,
+      "targets": [
+        "templates/comprehensive/docs/architecture/deployment-view.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/architecture/overview.md",
+      "sha256": "daa108bd820746c9248e836cb1d9b46c674c128f3633a2b40ad04328f6de18b9",
+      "bytes": 2030,
+      "targets": [
+        "templates/comprehensive/docs/architecture/overview.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/architecture/quality-attributes.md",
+      "sha256": "0d3c4d26ab53afc6da449c019615fc289f05a9e8c8d6915f7911e673575c68bb",
+      "bytes": 1971,
+      "targets": [
+        "templates/comprehensive/docs/architecture/quality-attributes.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/architecture/README.md",
+      "sha256": "f2519f184591d8ea1dbef0ef45271e6da73dda9e429e48e91d1716e5890c8755",
+      "bytes": 2303,
+      "targets": [
+        "INDEX.md"
+      ],
+      "disposition": "navigation-replaced",
+      "body_preserved": false,
+      "note": "Source navigation replaced by library index/recipient maps."
+    },
+    {
+      "source": "templates/architecture/risks-and-technical-debt.md",
+      "sha256": "e4f0a7bb0dc6da56ffb58cefa16201c22ce38370c109b606c0a3eecd43e956b1",
+      "bytes": 2066,
+      "targets": [
+        "templates/comprehensive/docs/architecture/risks-and-technical-debt.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/architecture/runtime-view.md",
+      "sha256": "ea5196abe8841f72e5fd8f99777222f625f97feb29f94889a7207ac26cf75625",
+      "bytes": 2002,
+      "targets": [
+        "templates/comprehensive/docs/architecture/runtime-view.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/architecture/system-context.md",
+      "sha256": "8a30c0ab6c3c0e42d09a51cb1adb306e7bb3e122d16d2f109f92210317a8a249",
+      "bytes": 1950,
+      "targets": [
+        "templates/comprehensive/docs/architecture/system-context.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/architecture/technical-design.md",
+      "sha256": "ad738173d2bf75baa0cefb7a26be28d8b6510b6952e21ea911e442c134367e8c",
+      "bytes": 2094,
+      "targets": [
+        "templates/comprehensive/docs/changes/change-id/design.md",
+        "templates/minimal/docs/changes/change-id/design.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/architecture.md",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "targets": [
+        "templates/minimal/docs/architecture.md"
+      ],
+      "disposition": "empty-draft-authored",
+      "body_preserved": false,
+      "note": "Authored useful successor; no empty draft is counted."
+    },
+    {
+      "source": "templates/CHANGELOG.md",
+      "sha256": "cbfb6434fd24eac6b2a1e53824bdf9a57d9debd340f35caaf135b4403711349d",
+      "bytes": 1957,
+      "targets": [
+        "templates/comprehensive/CHANGELOG.md",
+        "templates/minimal/CHANGELOG.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/CODE_OF_CONDUCT.md",
+      "sha256": "883d5ae8773eb98328c609527321f9a1cc301d49568c21652a51e938aa7ec059",
+      "bytes": 1964,
+      "targets": [
+        "templates/comprehensive/CODE_OF_CONDUCT.md",
+        "templates/minimal/CODE_OF_CONDUCT.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/CONTEXT.md",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "targets": [
+        "templates/minimal/CONTEXT.md",
+        "templates/comprehensive/CONTEXT.md"
+      ],
+      "disposition": "empty-draft-authored",
+      "body_preserved": false,
+      "note": "Authored useful successor; no empty draft is counted."
+    },
+    {
+      "source": "templates/contracts/asyncapi.yaml",
+      "sha256": "6ee9c4fe4fe0c63de457f4970a9199169492c3fa2707336870314a0b58d05a16",
+      "bytes": 794,
+      "targets": [
+        "templates/comprehensive/contracts/asyncapi.yaml",
+        "templates/minimal/contracts/asyncapi.yaml"
+      ],
+      "disposition": "semantically-refined",
+      "body_preserved": false,
+      "note": "Authoring guidance/source paths and transient record lifecycle are deliberately refined; original remains in verified backup."
+    },
+    {
+      "source": "templates/contracts/graphql.graphql",
+      "sha256": "e79a52e447c44f19d201b1e07ae6327ead5ab25a6c7f1b33030a1e3d1d31e07d",
+      "bytes": 633,
+      "targets": [
+        "templates/comprehensive/contracts/graphql.graphql",
+        "templates/minimal/contracts/graphql.graphql"
+      ],
+      "disposition": "semantically-refined",
+      "body_preserved": false,
+      "note": "Authoring guidance/source paths and transient record lifecycle are deliberately refined; original remains in verified backup."
+    },
+    {
+      "source": "templates/contracts/json-schema.json",
+      "sha256": "a0cc3c08a4e88feaebdc2e6bb04ed094407cf9ed9ede75b225f7477f936f4f1a",
+      "bytes": 686,
+      "targets": [
+        "templates/comprehensive/contracts/json-schema.json",
+        "templates/minimal/contracts/json-schema.json"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/contracts/openapi.yaml",
+      "sha256": "eb2ba7fb50e572b43fdac77f88fe4c495a3d3286803535a4b14fe59e99f12a5d",
+      "bytes": 703,
+      "targets": [
+        "templates/comprehensive/contracts/openapi.yaml",
+        "templates/minimal/contracts/openapi.yaml"
+      ],
+      "disposition": "semantically-refined",
+      "body_preserved": false,
+      "note": "Authoring guidance/source paths and transient record lifecycle are deliberately refined; original remains in verified backup."
+    },
+    {
+      "source": "templates/contracts/protobuf.proto",
+      "sha256": "ad8be3d317ef6f7d29f081abc947f5740a6032ebdb6d3f9b1015d0d4dde50f15",
+      "bytes": 587,
+      "targets": [
+        "templates/comprehensive/contracts/protobuf.proto",
+        "templates/minimal/contracts/protobuf.proto"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/contracts/README.md",
+      "sha256": "00757c09826879aadcaf6bb5c78fdeccd43f2dd797f527defe49069da4595951",
+      "bytes": 1064,
+      "targets": [
+        "INDEX.md"
+      ],
+      "disposition": "navigation-replaced",
+      "body_preserved": false,
+      "note": "Source navigation replaced by library index/recipient maps."
+    },
+    {
+      "source": "templates/CONTRIBUTING.md",
+      "sha256": "2e00822e11f403600f6c8311899185348ddeb564b9b312fdc0c08c544eb0e492",
+      "bytes": 2017,
+      "targets": [
+        "templates/comprehensive/CONTRIBUTING.md",
+        "templates/minimal/CONTRIBUTING.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/data/backfill-plan.md",
+      "sha256": "811448c45c7370fe4ebd980bc69f4f885a180e01fa775fc1ecf4070b0f976dc6",
+      "bytes": 2026,
+      "targets": [
+        "templates-data/comprehensive/docs/data-workloads/backfill-plan.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/data/backup-recovery.md",
+      "sha256": "647b82d5180a189d07b9f28c1d0c6f8da27a05653fbfa6469f2608f983e97590",
+      "bytes": 1991,
+      "targets": [
+        "templates/comprehensive/docs/data/backup-recovery.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/data/data-contract.md",
+      "sha256": "67fdc9d8b4041630fc6ab07d5a6ed96be124f6bdc841b968cee9cb22fe6b4cfa",
+      "bytes": 2012,
+      "targets": [
+        "templates-data/comprehensive/docs/data-workloads/data-contract.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/data/data-dictionary.md",
+      "sha256": "243506a40b74d54a03ec9e534a6589ec050e46843b7514bc20767fdb55bb7770",
+      "bytes": 2031,
+      "targets": [
+        "templates/comprehensive/docs/data/data-dictionary.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/data/data-lifecycle.md",
+      "sha256": "e0caf5d2ce9d9bea394e28a6726a4ac743aecd1e73bd31bcfb1ca2f588ed24df",
+      "bytes": 1973,
+      "targets": [
+        "templates/comprehensive/docs/data/data-lifecycle.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/data/data-lineage.md",
+      "sha256": "e202af6e58dda910954d58967b2fcabe2d0de49546a659d252187929d1dbae02",
+      "bytes": 1982,
+      "targets": [
+        "templates-data/comprehensive/docs/data-workloads/data-lineage.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/data/data-model.md",
+      "sha256": "b9fb03c9ad13c1b07b390f8a1ad2016cf37e9c01513ac9accd6930f2da273e5c",
+      "bytes": 1997,
+      "targets": [
+        "templates/comprehensive/docs/data/data-model.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/data/data-quality.md",
+      "sha256": "d95893cbe819d3ce77b02dedecd9d15601eebe8bd4377e655da2a78fcf409580",
+      "bytes": 2004,
+      "targets": [
+        "templates-data/comprehensive/docs/data-workloads/data-quality.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/data/dataset-catalog.md",
+      "sha256": "e325e3ed186538bfb4c2b48a173f644d093b585a4172827361731e2d6c834c13",
+      "bytes": 1988,
+      "targets": [
+        "templates-data/comprehensive/docs/data-workloads/dataset-catalog.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/data/migrations.md",
+      "sha256": "c65a8ff6e2dd15ddf6a947b8e79ff47c05fc3b7b6d210bd35fe2817a235605bb",
+      "bytes": 1994,
+      "targets": [
+        "templates/comprehensive/docs/data/migrations.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/data/persistence.md",
+      "sha256": "cf850ad0a887f741321572fa7254b1f571de110e4b186d87f23fbf0c71414ab9",
+      "bytes": 1986,
+      "targets": [
+        "templates/comprehensive/docs/data/persistence.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/data/pipeline-design.md",
+      "sha256": "36bad31cef049c5d9c4a296c9011341182194423faa4793d4a5b152130ceb6bf",
+      "bytes": 2023,
+      "targets": [
+        "templates-data/comprehensive/docs/data-workloads/pipeline-design.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/data/README.md",
+      "sha256": "6f5fe6cd1e71c02f20b0f42508f22938380f31c6e1330edc23cbc5914d45ae0d",
+      "bytes": 2427,
+      "targets": [
+        "INDEX.md"
+      ],
+      "disposition": "navigation-replaced",
+      "body_preserved": false,
+      "note": "Source navigation replaced by library index/recipient maps."
+    },
+    {
+      "source": "templates/data/retention.md",
+      "sha256": "d9334c3be45f4092f2dc5bf64dd297bec9dbd09c130fffa376c6e8507143db3f",
+      "bytes": 1947,
+      "targets": [
+        "templates/comprehensive/docs/data/retention.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/delivery/acceptance-criteria.md",
+      "sha256": "21a4e31aa98fc3977c12d7c8dc4b2e32354d431add09c6534122ad34eade7920",
+      "bytes": 1975,
+      "targets": [
+        "templates/comprehensive/docs/delivery/acceptance-criteria.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/delivery/change-proposal.md",
+      "sha256": "a68283a7161cc62f743c87ed8b90748c3df540bd0cb52608d6061a8462df5241",
+      "bytes": 1993,
+      "targets": [
+        "templates/comprehensive/docs/delivery/change-proposal.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/delivery/deprecation-plan.md",
+      "sha256": "bdd8eba04240b08824763fb6f73b5711cd5cd3d4292ffa1deb67aa47f667571b",
+      "bytes": 2012,
+      "targets": [
+        "templates/comprehensive/docs/delivery/deprecation-plan.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/delivery/experiment-plan.md",
+      "sha256": "fa32a6d157520a796afd1be2767a758d3ea3730740dc007eafa42330bdb5ff5b",
+      "bytes": 2017,
+      "targets": [
+        "templates/comprehensive/docs/delivery/experiment-plan.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/delivery/experiment-results.md",
+      "sha256": "85dff791e8bceda66102cd74f0edb3865def9c9e313871306357b095d1659858",
+      "bytes": 1972,
+      "targets": [
+        "templates/comprehensive/docs/delivery/experiment-results.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/delivery/feedback-review.md",
+      "sha256": "8b282a61ec77948b89756e57248b18e5c20a0253a0375f512ad933ad69eb8a52",
+      "bytes": 2020,
+      "targets": [
+        "templates/comprehensive/docs/delivery/feedback-review.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/delivery/implementation-plan.md",
+      "sha256": "7bb119d904dfca3b07996e037b322e9281665e0725396894ea263b5a84f56219",
+      "bytes": 2017,
+      "targets": [
+        "templates/comprehensive/docs/changes/change-id/plan.md",
+        "templates/minimal/docs/changes/change-id/plan.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/delivery/launch-plan.md",
+      "sha256": "cd7e2a18a236ebf352e7fd9f7fbfa679ed004d7645dc5304c23a7b5372ccff72",
+      "bytes": 2033,
+      "targets": [
+        "templates/comprehensive/docs/delivery/launch-plan.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/delivery/master-plan.md",
+      "sha256": "915fd192b058f31d76fd61791e9fe3d467c2406973fb6eb4cf3625391c5a49fa",
+      "bytes": 1956,
+      "targets": [
+        "templates/comprehensive/docs/delivery/master-plan.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/delivery/migration-guide.md",
+      "sha256": "cea7eb504428c4e0592319ff08c30a40c10ee64bc7b71461f7b5c1a20943aa85",
+      "bytes": 2057,
+      "targets": [
+        "templates/comprehensive/docs/delivery/migration-guide.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/delivery/phase-plan.md",
+      "sha256": "55a57f051be1b25f32973f8e697049f1128697099dcf16d632ce45a47a42bf26",
+      "bytes": 1976,
+      "targets": [
+        "templates/comprehensive/docs/delivery/phase-plan.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/delivery/postmortem.md",
+      "sha256": "19bc4abf89a0afcce86b1957ad4cbddc540b241acd5fb1d956c45a2786cd79cb",
+      "bytes": 2002,
+      "targets": [
+        "templates/comprehensive/docs/incidents/incident-id.md",
+        "templates/minimal/docs/incidents/incident-id.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/delivery/README.md",
+      "sha256": "972e2de69f7e9d2b03f9fb378a371eaff103eb0fac0b94ab68cd48c9f5315c0d",
+      "bytes": 3316,
+      "targets": [
+        "INDEX.md"
+      ],
+      "disposition": "navigation-replaced",
+      "body_preserved": false,
+      "note": "Source navigation replaced by library index/recipient maps."
+    },
+    {
+      "source": "templates/delivery/release-checklist.md",
+      "sha256": "d109b98a162598503c6f06726ca8823c3c3c59c473e96f09d2424642258e35f0",
+      "bytes": 2014,
+      "targets": [
+        "templates/comprehensive/docs/delivery/release-checklist.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/delivery/release-notes.md",
+      "sha256": "ec507a462b50e00a98dafb492385b8af9d1dc947ddb9fcfc434d4f31a874a427",
+      "bytes": 1982,
+      "targets": [
+        "templates/comprehensive/docs/delivery/release-notes.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/delivery/retirement-plan.md",
+      "sha256": "bae85743e1c6f5db655100b32c04c010546cd0f37f0c0df36e8e889d310feff9",
+      "bytes": 2034,
+      "targets": [
+        "templates/comprehensive/docs/delivery/retirement-plan.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/delivery/retrospective.md",
+      "sha256": "b64441542aad9ece90c60ea832e994e4986ac47de98a768e930aa7ca4a983610",
+      "bytes": 1963,
+      "targets": [
+        "templates/comprehensive/docs/delivery/retrospective.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/delivery/rfc.md",
+      "sha256": "7d19cb957b1537b77575367f59b59bdc500e6ec551440378d680fdaf6902fe3a",
+      "bytes": 1949,
+      "targets": [
+        "templates/comprehensive/docs/delivery/rfc.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/delivery/verification-report.md",
+      "sha256": "fdef4974c5c0483d8bfee801a42862e01aaec2163f2f9a5ab91e12f67bc1e3fe",
+      "bytes": 2019,
+      "targets": [
+        "templates/comprehensive/docs/changes/change-id/verification.md",
+        "templates/minimal/docs/changes/change-id/verification.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/domain/bounded-contexts.md",
+      "sha256": "75dc0137139e6c26db9289af64b4966805b43fcd0f41e9c448c62c92bf12c540",
+      "bytes": 1933,
+      "targets": [
+        "templates/comprehensive/docs/domain/bounded-contexts.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/domain/business-rules.md",
+      "sha256": "a92bd5b8a311b5c6efc84ea1c97a4b39c19b4919865e4c030992b9557d1ae840",
+      "bytes": 1963,
+      "targets": [
+        "templates/comprehensive/docs/domain/business-rules.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/domain/business-workflows.md",
+      "sha256": "b65bb0eea4f01f9d765ac3c3feaa5a2b413e7ce35a65d5fe22439c9ce76c9870",
+      "bytes": 1979,
+      "targets": [
+        "templates/comprehensive/docs/domain/business-workflows.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/domain/domain-model.md",
+      "sha256": "771a0e01ea6c382ed9a205d6f65383d1c1f9e0e443c17d179707d7394a4f0c3e",
+      "bytes": 2005,
+      "targets": [
+        "templates/comprehensive/docs/domain/domain-model.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/domain/glossary.md",
+      "sha256": "cd7a9e44404f0431636f905e6e24c0f73619e7138a9bcf1a4ee08400c309fa51",
+      "bytes": 1922,
+      "targets": [
+        "templates/comprehensive/docs/domain/glossary.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/domain/invariants.md",
+      "sha256": "fda0943def3598a22dc002479ac2b30199329e0b901bc135f11409cb828281c7",
+      "bytes": 1998,
+      "targets": [
+        "templates/comprehensive/docs/domain/invariants.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/domain/README.md",
+      "sha256": "959dd0509e02890b32e518886870ab1482c3e16436c90d5441f0d6bf951381d7",
+      "bytes": 1339,
+      "targets": [
+        "INDEX.md"
+      ],
+      "disposition": "navigation-replaced",
+      "body_preserved": false,
+      "note": "Source navigation replaced by library index/recipient maps."
+    },
+    {
+      "source": "templates/engineering/branching-strategy.md",
+      "sha256": "a19cb55a9fe84f212cac8e38872e5fdb8b93ea99ebdcede2814a737cf9075b32",
+      "bytes": 1970,
+      "targets": [
+        "templates/comprehensive/docs/engineering/branching-strategy.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/engineering/code-review.md",
+      "sha256": "7be3446ee5171ae9c3723c16e436c4d451623480979a2b13217384a7f2aa3ed9",
+      "bytes": 2067,
+      "targets": [
+        "templates/comprehensive/docs/engineering/code-review.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/engineering/codebase-guide.md",
+      "sha256": "7ca1fcc6ed7b4230e628e04fd53157767cfe7ea2ced35440de721310583cbae2",
+      "bytes": 2015,
+      "targets": [
+        "templates/comprehensive/docs/engineering/codebase-guide.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/engineering/coding-conventions.md",
+      "sha256": "5acac39a5ba071de1952b8ddf460382f08f2e4fc00c462d1d86ce231818e3c31",
+      "bytes": 2030,
+      "targets": [
+        "templates/comprehensive/docs/engineering/coding-conventions.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/engineering/dependency-management.md",
+      "sha256": "2cfef8c88cba272f55b2f85a187a622b3978f4cb1520390ecfe7de43c19bf089",
+      "bytes": 2080,
+      "targets": [
+        "templates/comprehensive/docs/engineering/dependency-management.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/engineering/development-setup.md",
+      "sha256": "49a23db12d2fc6ace8e11d88ae2c76d1c633155667e9440e4722636b038b28a3",
+      "bytes": 2042,
+      "targets": [
+        "templates/comprehensive/docs/engineering/development-setup.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/engineering/documentation-maintenance.md",
+      "sha256": "d2609e36e6a47a05f8b6e6b4f62608004780d837547530c601b9df23a8053952",
+      "bytes": 2139,
+      "targets": [
+        "templates/comprehensive/docs/engineering/documentation-maintenance.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/engineering/performance-budget.md",
+      "sha256": "ad2c10da934399240d235e97b68bf2f2f9feac9ce3371310ebb63caae42efe54",
+      "bytes": 2058,
+      "targets": [
+        "templates/comprehensive/docs/engineering/performance-budget.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/engineering/performance-review.md",
+      "sha256": "d4a5ec73a8b4c455f397815a05806928485628b616507015fc332f65f214d90e",
+      "bytes": 2058,
+      "targets": [
+        "templates/comprehensive/docs/engineering/performance-review.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/engineering/README.md",
+      "sha256": "a1114eabc3f47c6ec18948d15a5adad88a226af75d79ae3dea9d2762cc927784",
+      "bytes": 2450,
+      "targets": [
+        "INDEX.md"
+      ],
+      "disposition": "navigation-replaced",
+      "body_preserved": false,
+      "note": "Source navigation replaced by library index/recipient maps."
+    },
+    {
+      "source": "templates/engineering/test-plan.md",
+      "sha256": "3b0a7daf33d368971a2533617fdee0dcdecda973ab8fdc6bc96ed888a71d11f3",
+      "bytes": 2082,
+      "targets": [
+        "templates/comprehensive/docs/engineering/test-plan.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/engineering/testing-strategy.md",
+      "sha256": "e2ce4827fa5af1ef76e5476e0078e76890872442fb539de4712f15a9fc6e28a8",
+      "bytes": 2009,
+      "targets": [
+        "templates/comprehensive/docs/engineering/testing-strategy.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/engineering/working-agreement.md",
+      "sha256": "83590d1fe520cb1fd4f2963f51349b4db7f6116ac9f321adf22254ae7604a5ea",
+      "bytes": 2008,
+      "targets": [
+        "templates/comprehensive/docs/engineering/working-agreement.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/experience/accessibility-statement.md",
+      "sha256": "e7876a39bf3417625672d51d1b2cb829bae882c440e25559d581081164a8cc35",
+      "bytes": 2058,
+      "targets": [
+        "templates/comprehensive/docs/experience/accessibility-statement.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/experience/accessibility-test-plan.md",
+      "sha256": "317b21df013d72a1593e10004a31b7d2d987ecaed0d8e194c2acba5a14d3000c",
+      "bytes": 2063,
+      "targets": [
+        "templates/comprehensive/docs/experience/accessibility-test-plan.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/experience/accessibility.md",
+      "sha256": "a90bf4594ad542398a7c14450751fd31a7f8a643a5e482714d1baa0779efa341",
+      "bytes": 2020,
+      "targets": [
+        "templates/comprehensive/docs/experience/accessibility.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/experience/brand-guidelines.md",
+      "sha256": "a3e29c13d7573171d42f55a1b9325bb4db08b30defe1b4552c418b7705eb87dc",
+      "bytes": 2059,
+      "targets": [
+        "templates/comprehensive/docs/experience/brand-guidelines.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/experience/browser-support.md",
+      "sha256": "7599705a805f4964430b56635dba6e12db7cad260b8adf8ce905a14d323fd088",
+      "bytes": 2009,
+      "targets": [
+        "templates/comprehensive/docs/experience/browser-support.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/experience/component-guidelines.md",
+      "sha256": "62eb5aa6af2a3146fbd6b44c587c600dd09ba5cae308995fc3f9e47edf196540",
+      "bytes": 1964,
+      "targets": [
+        "templates/comprehensive/docs/experience/component-guidelines.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/experience/content-guidelines.md",
+      "sha256": "2e5d1d3d141b73ee6b4cde44dd5172c2e82aaa8fc9d477bdc304138222ec7e95",
+      "bytes": 1987,
+      "targets": [
+        "templates/comprehensive/docs/experience/content-guidelines.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/experience/design-system.md",
+      "sha256": "48384aa994a96c18ad3206a52e5ecbe721c567c2f7669bed37bc5e0115a734e4",
+      "bytes": 1970,
+      "targets": [
+        "templates/comprehensive/docs/experience/design-system.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/experience/information-architecture.md",
+      "sha256": "ea7c967df519c1cb77a1fce0d08c0d32a5c24cb9e6a91353cb27e1c1653f19ba",
+      "bytes": 2015,
+      "targets": [
+        "templates/comprehensive/docs/experience/information-architecture.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/experience/interaction-patterns.md",
+      "sha256": "b9e2bc63bbdda253521ec1164888d240ef254b24a5fc91473c8fd3538f459a8a",
+      "bytes": 1991,
+      "targets": [
+        "templates/comprehensive/docs/experience/interaction-patterns.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/experience/localization.md",
+      "sha256": "eee227062ab8905849002d4206e2c247f4bcc73258d0fe1327a9e70a405a22aa",
+      "bytes": 1985,
+      "targets": [
+        "templates/comprehensive/docs/experience/localization.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/experience/README.md",
+      "sha256": "cbb23716119eb7bdab4ce421fa3e27ebbfc62c2865d26fd8d4425835eae7e27d",
+      "bytes": 2772,
+      "targets": [
+        "INDEX.md"
+      ],
+      "disposition": "navigation-replaced",
+      "body_preserved": false,
+      "note": "Source navigation replaced by library index/recipient maps."
+    },
+    {
+      "source": "templates/experience/usability-test-plan.md",
+      "sha256": "df0ed2d8a04ae5f760a5f5829492a6cdb31795191b2d899edf3a7db024db78c1",
+      "bytes": 2003,
+      "targets": [
+        "templates/comprehensive/docs/experience/usability-test-plan.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/experience/user-flows.md",
+      "sha256": "90e31929082b7f58690bfe742a881614ea39da3deca62f50c398fafea40f55f6",
+      "bytes": 1948,
+      "targets": [
+        "templates/comprehensive/docs/experience/user-flows.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/experience/ux-principles.md",
+      "sha256": "265fd1e96082b9d45550a17baae78ebd920c69f9e94bc9cb85ad34685ac580c0",
+      "bytes": 1950,
+      "targets": [
+        "templates/comprehensive/docs/experience/ux-principles.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/GOVERNANCE.md",
+      "sha256": "43f93161ee25975856d6b2ae1cc46def3fd52ae003606dc363a6917851b794cd",
+      "bytes": 1921,
+      "targets": [
+        "templates/comprehensive/GOVERNANCE.md",
+        "templates/minimal/GOVERNANCE.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/INDEX.md",
+      "sha256": "0fd871c377de7f7d986f07c45d4e2ddb5381d190535dd205b5139153d5a63edb",
+      "bytes": 36453,
+      "targets": [
+        "INDEX.md"
+      ],
+      "disposition": "navigation-replaced",
+      "body_preserved": false,
+      "note": "Source navigation replaced by library index/recipient maps."
+    },
+    {
+      "source": "templates/interfaces/api-conventions.md",
+      "sha256": "891f282c75687166a82b3a197a33f0eed379be8a4f013a29b597ffd45dde5dc6",
+      "bytes": 2020,
+      "targets": [
+        "templates/comprehensive/docs/interfaces/api-conventions.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/interfaces/api-overview.md",
+      "sha256": "66c2805600a6f707ebed3d6145f866ac6e461d83df6171a0e2e580436cc54eb2",
+      "bytes": 2028,
+      "targets": [
+        "templates/comprehensive/docs/interfaces/api-overview.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/interfaces/authentication.md",
+      "sha256": "965dd6fa0ab0fadb48822ef85060a1221f2a6c047c61d14d6e05f53a3761b5b5",
+      "bytes": 2076,
+      "targets": [
+        "templates/comprehensive/docs/interfaces/authentication.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/interfaces/compatibility.md",
+      "sha256": "b39acb23ab4921e8a2018d9cb49d690aa1f60ffec0c1adc100baff12f3168e33",
+      "bytes": 2001,
+      "targets": [
+        "templates/comprehensive/docs/interfaces/compatibility.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/interfaces/error-handling.md",
+      "sha256": "48f04329d36732fe13f68e1619f8475cf77bbf6e9531e8953e88c4a6b52574ba",
+      "bytes": 2024,
+      "targets": [
+        "templates/comprehensive/docs/interfaces/error-handling.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/interfaces/event-contracts.md",
+      "sha256": "057dc6aefbe34fd17eb5c70c2175af936e81d0d67302f0633d665efbfe15915a",
+      "bytes": 2040,
+      "targets": [
+        "templates/comprehensive/docs/interfaces/event-contracts.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/interfaces/external-integrations.md",
+      "sha256": "83627d014833c0ee737f7b86ce5b72ed6dabb353c88992a311de315f38be13f7",
+      "bytes": 2065,
+      "targets": [
+        "templates/comprehensive/docs/interfaces/external-integrations.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/interfaces/README.md",
+      "sha256": "397b14156f6b75f78f6d2f79ef3c4415c7ca32a73c76b5f9003a7f0847d2e4bf",
+      "bytes": 1779,
+      "targets": [
+        "INDEX.md"
+      ],
+      "disposition": "navigation-replaced",
+      "body_preserved": false,
+      "note": "Source navigation replaced by library index/recipient maps."
+    },
+    {
+      "source": "templates/interfaces/versioning.md",
+      "sha256": "dda0b044b873b4e6241a2ccf78c0ef6e84c2b666f94f3ce930832269f8cd6ba3",
+      "bytes": 2036,
+      "targets": [
+        "templates/comprehensive/docs/interfaces/versioning.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/LICENSE-APACHE",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "targets": [
+        "templates/minimal/LICENSE-APACHE",
+        "templates/comprehensive/LICENSE-APACHE"
+      ],
+      "disposition": "empty-draft-authored",
+      "body_preserved": false,
+      "note": "Authored useful successor; no empty draft is counted."
+    },
+    {
+      "source": "templates/LICENSE-MIT",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "targets": [
+        "templates/minimal/LICENSE-MIT",
+        "templates/comprehensive/LICENSE-MIT"
+      ],
+      "disposition": "empty-draft-authored",
+      "body_preserved": false,
+      "note": "Authored useful successor; no empty draft is counted."
+    },
+    {
+      "source": "templates/operations/capacity-planning.md",
+      "sha256": "75ff8a62f319dbb767748446737355e8ecb974dfac91069515c8a1eeff030b9f",
+      "bytes": 1991,
+      "targets": [
+        "templates/comprehensive/docs/operations/capacity-planning.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/operations/ci-cd.md",
+      "sha256": "282d1db31ca89fdb689f8dd41bfc096525a4a6a31874f6043670db0b4f8365c8",
+      "bytes": 1974,
+      "targets": [
+        "templates/comprehensive/docs/operations/ci-cd.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/operations/cost-management.md",
+      "sha256": "f270a8200548ffb68a6cbe69d73fc16d778c4c3b8c1866525df3cc894f1ce699",
+      "bytes": 1971,
+      "targets": [
+        "templates/comprehensive/docs/operations/cost-management.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/operations/deployment.md",
+      "sha256": "27c885ed31503b9af8dddb9f86cc3f97e2f3f2dbfff90c4b06309de670e3df01",
+      "bytes": 2000,
+      "targets": [
+        "templates/comprehensive/docs/operations/deployment.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/operations/disaster-recovery.md",
+      "sha256": "b5ba0ae4b607f4de965c1dc4fbf5c94454d64f42c02d4e0f3f54bd66b5b3bd98",
+      "bytes": 2069,
+      "targets": [
+        "templates/comprehensive/docs/operations/disaster-recovery.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/operations/environments.md",
+      "sha256": "a72a5de477a8fb26dc075b6ebb7282fb452c6b4077046aed077463ffd01e6b59",
+      "bytes": 1969,
+      "targets": [
+        "templates/comprehensive/docs/operations/environments.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/operations/incident-response.md",
+      "sha256": "faf36c4eee8fc808548bbb1a5a3f8dece5a22b64e9647321068efa9dc858f823",
+      "bytes": 2019,
+      "targets": [
+        "templates/comprehensive/docs/operations/incident-response.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/operations/maintenance.md",
+      "sha256": "f380a397d3b1d75387dc54d8a0c2f1d5757adcb02d3a452744d0bb238005127d",
+      "bytes": 1971,
+      "targets": [
+        "templates/comprehensive/docs/operations/maintenance.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/operations/observability.md",
+      "sha256": "7a2297e62a942b3d684ff8806cbe61a30a7d5b2328765bcfdd420b251f81b56c",
+      "bytes": 2016,
+      "targets": [
+        "templates/comprehensive/docs/operations/observability.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/operations/README.md",
+      "sha256": "7d627ce2a869ab9e6afea54a4e465256e9f0e83fc240f99603f84c842b2becc4",
+      "bytes": 2632,
+      "targets": [
+        "INDEX.md"
+      ],
+      "disposition": "navigation-replaced",
+      "body_preserved": false,
+      "note": "Source navigation replaced by library index/recipient maps."
+    },
+    {
+      "source": "templates/operations/rollback.md",
+      "sha256": "9aa72c342a9a05a6e829166683f653f5e73f4aad907049caef1f748a45d29784",
+      "bytes": 2003,
+      "targets": [
+        "templates/comprehensive/docs/operations/rollback.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/operations/runbook.md",
+      "sha256": "0940d5a0e19dcef55fbdac68a7160a544dcb90a7bb62801cb7ce84c817c9c0b2",
+      "bytes": 2000,
+      "targets": [
+        "templates/comprehensive/docs/operations/runbook.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/operations/service-ownership.md",
+      "sha256": "854217db94350166fe69e7759276e2c432b090fd3aae1253e35ebc242585fd40",
+      "bytes": 2030,
+      "targets": [
+        "templates/comprehensive/docs/operations/service-ownership.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/operations/sli-slo.md",
+      "sha256": "642fad67c34c08e4f22f92840e5d2437527336171d3536f41816fd371529ee8c",
+      "bytes": 2013,
+      "targets": [
+        "templates/comprehensive/docs/operations/sli-slo.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/operations/support-playbook.md",
+      "sha256": "290d5e4b9f3a4281b6b7dbb35b8628a8e46d26de770db2d06642cc941429061f",
+      "bytes": 2002,
+      "targets": [
+        "templates/comprehensive/docs/operations/support-playbook.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/product/brief.md",
+      "sha256": "8e9cd63bbf0116660ad9bb7fc63afdef709f179c9947b26d72652500f2e28e8d",
+      "bytes": 1984,
+      "targets": [
+        "templates/comprehensive/docs/product/brief.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/product/business-case.md",
+      "sha256": "dfac597674f12c4f76148825f9d97dd66ca45a0adf635817ea6e180decc6d98e",
+      "bytes": 2038,
+      "targets": [
+        "templates/comprehensive/docs/business/business-case.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/product/business-requirements.md",
+      "sha256": "1783c445976fde554001963deea558a5b0e5e154d1cc16be461db72518b9bef7",
+      "bytes": 2070,
+      "targets": [
+        "templates/comprehensive/docs/business/business-requirements.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/product/metric-definitions.md",
+      "sha256": "76e3b804a1a7513fb1c04f714c0e022faaa1015c31e4cfbf07de0316d6770c8a",
+      "bytes": 2041,
+      "targets": [
+        "templates/comprehensive/docs/product/metric-definitions.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/product/non-functional-requirements.md",
+      "sha256": "f81fcbcf67dd7eee2cf5316527ca0b92ac9b96fce9a22f8c67946931a84f0a2d",
+      "bytes": 2096,
+      "targets": [
+        "templates/comprehensive/docs/product/non-functional-requirements.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/product/personas.md",
+      "sha256": "1f5065e0cba3b2dfbcd492c437a9fe52e72175697c59fafea91cfbfa7b8e26d7",
+      "bytes": 2006,
+      "targets": [
+        "templates/comprehensive/docs/product/personas.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/product/prd.md",
+      "sha256": "69cfecba54c1a2768992c34926bd4da2737409303f74d5873cd32f114ae43528",
+      "bytes": 2032,
+      "targets": [
+        "templates/comprehensive/docs/product/prd.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/product/README.md",
+      "sha256": "44c5f675f0e8b6b85ca94ecda5f377ca73ab42e570f42ff96a2c287b865a3d32",
+      "bytes": 2936,
+      "targets": [
+        "INDEX.md"
+      ],
+      "disposition": "navigation-replaced",
+      "body_preserved": false,
+      "note": "Source navigation replaced by library index/recipient maps."
+    },
+    {
+      "source": "templates/product/requirements.md",
+      "sha256": "273e21ae083118daba281cc9912de6182359a60f5482b65d9e131c7656303c3e",
+      "bytes": 2077,
+      "targets": [
+        "templates/comprehensive/docs/product/requirements.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/product/research-findings.md",
+      "sha256": "0968a106d6ab95f6fd527f04e86fe03f90ef33b93df0170e5a3d79c67d34f0a8",
+      "bytes": 2027,
+      "targets": [
+        "templates/comprehensive/docs/product/research-findings.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/product/research-plan.md",
+      "sha256": "8738363a64208a03bfb3e9f8e4c99a3859ee30e9df5c710012636104d7879906",
+      "bytes": 2024,
+      "targets": [
+        "templates/comprehensive/docs/product/research-plan.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/product/risk-assumptions.md",
+      "sha256": "7931ffa98633e45e1eaf4438bcfd8c64a679cb8015e1ea36656a3d96a2af85de",
+      "bytes": 1995,
+      "targets": [
+        "templates/comprehensive/docs/product/risk-assumptions.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/product/roadmap.md",
+      "sha256": "3f83b52a76490c0ceff1d8ce1c1be62134ade3a638906f4a037b714b601ccea4",
+      "bytes": 1982,
+      "targets": [
+        "templates/comprehensive/docs/product/roadmap.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/product/stakeholders.md",
+      "sha256": "ed1810d715ccd5d686be3c3daed8dec672affa82dd4462c6f30cdf66fb6775ba",
+      "bytes": 2012,
+      "targets": [
+        "templates/comprehensive/docs/business/stakeholders.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/product/success-metrics.md",
+      "sha256": "708b0b56326feb56cf26268343836d12d91fb2ce50137d5f5c3abe9c1584fd10",
+      "bytes": 2003,
+      "targets": [
+        "templates/comprehensive/docs/product/success-metrics.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/product/user-journeys.md",
+      "sha256": "c981f7b98787951fba6859d17c73fe84e5c504cf8fcb5d375bd8e332349ad310",
+      "bytes": 2027,
+      "targets": [
+        "templates/comprehensive/docs/product/user-journeys.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/product/vision.md",
+      "sha256": "8e3df09021500318edf3d9e907e68aa4ee9f9cefee1e5b1809d3064fe98a9b19",
+      "bytes": 1969,
+      "targets": [
+        "templates/comprehensive/docs/product/vision.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/README.md",
+      "sha256": "497d7dd8d3f43446911f8e4b346fddaccef71d987aa41932b9ae6be8e9b47bd9",
+      "bytes": 1032,
+      "targets": [
+        "README.md",
+        "INDEX.md"
+      ],
+      "disposition": "navigation-replaced",
+      "body_preserved": false,
+      "note": "Source navigation replaced by library index/recipient maps."
+    },
+    {
+      "source": "templates/repository/requests/bug-report.md",
+      "sha256": "154cc0aeb7cfdff599ac738575365d7d95ef936c9454665c38cacc7574cd5914",
+      "bytes": 1930,
+      "targets": [
+        "templates/comprehensive/docs/delivery/requests/bug-report.md",
+        "templates/minimal/docs/delivery/requests/bug-report.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/repository/requests/documentation-issue.md",
+      "sha256": "b886b33137136a168817b29bc2b55c476e07e75412ceba051667b095378a5044",
+      "bytes": 1999,
+      "targets": [
+        "templates/comprehensive/docs/delivery/requests/documentation-issue.md",
+        "templates/minimal/docs/delivery/requests/documentation-issue.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/repository/requests/feature-request.md",
+      "sha256": "637e14c9bdb790b18f6b592d5fbf71d7496787eeae4cb2d92868b695c6fdb63c",
+      "bytes": 1980,
+      "targets": [
+        "templates/comprehensive/docs/delivery/requests/feature-request.md",
+        "templates/minimal/docs/delivery/requests/feature-request.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/repository/requests/pull-request.md",
+      "sha256": "b5f854925643dfaf13f8c360b68e6cfabff6ee088b969eabac47249411e2f012",
+      "bytes": 2002,
+      "targets": [
+        "templates/comprehensive/docs/delivery/requests/pull-request.md",
+        "templates/minimal/docs/delivery/requests/pull-request.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/repository/requests/README.md",
+      "sha256": "063441fa1d8a6cd94c019a3284eac273013318e9d9ee719497984bc98c0d83ca",
+      "bytes": 649,
+      "targets": [
+        "INDEX.md"
+      ],
+      "disposition": "navigation-replaced",
+      "body_preserved": false,
+      "note": "Source navigation replaced by library index/recipient maps."
+    },
+    {
+      "source": "templates/repository/requests/template-request.md",
+      "sha256": "cf9d30f3dcbf7eb5732d2889673eb91fae912b4c11910a84ccdc560e909d551e",
+      "bytes": 1980,
+      "targets": [
+        "templates/comprehensive/docs/delivery/requests/template-request.md",
+        "templates/minimal/docs/delivery/requests/template-request.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/ROADMAP.md",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "targets": [
+        "templates/minimal/ROADMAP.md",
+        "templates/comprehensive/ROADMAP.md"
+      ],
+      "disposition": "empty-draft-authored",
+      "body_preserved": false,
+      "note": "Authored useful successor; no empty draft is counted."
+    },
+    {
+      "source": "templates/scoped-AGENTS.md",
+      "sha256": "eaba0722062285562b6b9267c4b92d0800ad45f82bcd2407ae4f46fba616806f",
+      "bytes": 2014,
+      "targets": [
+        "templates-agent-workflow/comprehensive/docs/AGENTS.md",
+        "templates-agent-workflow/minimal/docs/AGENTS.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/security/authorization-model.md",
+      "sha256": "37f15bb58078254828bc07dfc208d0ceb7abc6a83fdae7152b03e8fa923459bf",
+      "bytes": 1970,
+      "targets": [
+        "templates/comprehensive/docs/security/authorization-model.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/security/compliance.md",
+      "sha256": "18a1d2af67e9433c388b47616f818f4ffdcd48b51cc6b9f6d040265f4f052e3d",
+      "bytes": 2016,
+      "targets": [
+        "templates/comprehensive/docs/security/compliance.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/security/data-processing-register.md",
+      "sha256": "9e5787a157bfd359dee474eb5ea2442b85e3b3c7c60fce91ed56f203d4a00968",
+      "bytes": 2069,
+      "targets": [
+        "templates/comprehensive/docs/security/data-processing-register.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/security/privacy-risk.md",
+      "sha256": "b88accf4a308cb8d466e1f6c98ee85d662cd61bdd617f97e4518a20f24d5eee4",
+      "bytes": 2059,
+      "targets": [
+        "templates/comprehensive/docs/security/privacy-risk.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/security/README.md",
+      "sha256": "c46612a7095f69e289f570f0896204ec1c43bde54a81e9a373eabcdaec6b4b4d",
+      "bytes": 1955,
+      "targets": [
+        "INDEX.md"
+      ],
+      "disposition": "navigation-replaced",
+      "body_preserved": false,
+      "note": "Source navigation replaced by library index/recipient maps."
+    },
+    {
+      "source": "templates/security/secrets-management.md",
+      "sha256": "26486a5b1aa9d7f0be35b00df365a344e928e3b303afad9d94e6460805b3d318",
+      "bytes": 2003,
+      "targets": [
+        "templates/comprehensive/docs/security/secrets-management.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/security/secure-development.md",
+      "sha256": "78b96fd3ed08f00fa893bff865d9116a07f7960f01b45b234e0508753972b15e",
+      "bytes": 2032,
+      "targets": [
+        "templates/comprehensive/docs/security/secure-development.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/security/security-architecture.md",
+      "sha256": "1c2b99fdabdc0700313d85758689af0bc63966ef7bc4c663019495db9560afa1",
+      "bytes": 2079,
+      "targets": [
+        "templates/comprehensive/docs/security/security-architecture.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/security/supply-chain-security.md",
+      "sha256": "6cf1e753c8a29cdf4fb7488cb1b2a6b73740dc25ae20a218054e5948a91a07ec",
+      "bytes": 2047,
+      "targets": [
+        "templates/comprehensive/docs/security/supply-chain-security.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/security/threat-model.md",
+      "sha256": "a53bc205d794d9794c74eafe7278f6e7a7d2323dde14f2ab08bd7b01f679cfc6",
+      "bytes": 2022,
+      "targets": [
+        "templates/comprehensive/docs/security/threat-model.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/SECURITY.md",
+      "sha256": "5e69e3a79142b5a554d5c5ec199d37710f63af357333441c00651010415f56fb",
+      "bytes": 1994,
+      "targets": [
+        "templates/comprehensive/SECURITY.md",
+        "templates/minimal/SECURITY.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/session-handoff.md",
+      "sha256": "c357eb82ca23cb8e587be6c537d7867239ad57ed004415b905616cd488db475a",
+      "bytes": 1995,
+      "targets": [
+        "templates-agent-workflow/minimal/.local/agent/HANDOFF.md",
+        "templates-agent-workflow/comprehensive/.local/agent/HANDOFF.md"
+      ],
+      "disposition": "semantically-refined",
+      "body_preserved": false,
+      "note": "Authoring guidance/source paths and transient record lifecycle are deliberately refined; original remains in verified backup."
+    },
+    {
+      "source": "templates/SUPPORT.md",
+      "sha256": "213d9755f0eb185659b050865977e8139e178f32fb9d3a0addbbbaba183f9fc7",
+      "bytes": 1973,
+      "targets": [
+        "templates/comprehensive/SUPPORT.md",
+        "templates/minimal/SUPPORT.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/user-documentation/explanation.md",
+      "sha256": "70a002d0e31d73ca8fb687c45533efc5f3f5e6ff19949bbb6a627c0875f7fa61",
+      "bytes": 1974,
+      "targets": [
+        "templates/comprehensive/docs/user-documentation/explanation.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/user-documentation/faq.md",
+      "sha256": "b0100734fe771c0067c15304ad0df11743b4f260f4cb0177e2d96bbe6d235885",
+      "bytes": 1935,
+      "targets": [
+        "templates/comprehensive/docs/user-documentation/faq.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/user-documentation/how-to.md",
+      "sha256": "f226e6e0c8e66f2256fbc28b7828a090621a1be74904fd5491b3862b4863ac59",
+      "bytes": 1933,
+      "targets": [
+        "templates/comprehensive/docs/user-documentation/how-to.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/user-documentation/installation.md",
+      "sha256": "cfad4f0b4078d4108be51bad02640279861b2f3c1bfbbc5ea4df2bd8e07a5d52",
+      "bytes": 2001,
+      "targets": [
+        "templates/comprehensive/docs/user-documentation/installation.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/user-documentation/quickstart.md",
+      "sha256": "6dd0e30302da0ea8a86f8c49c80ce2cd02afb70635f2bac83afe0eb8b963056e",
+      "bytes": 1953,
+      "targets": [
+        "templates/comprehensive/docs/user-documentation/quickstart.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/user-documentation/README.md",
+      "sha256": "393dac509825bd17b5ba28145e3f4898bd9b7faa0612bb7373c7f9e614189e35",
+      "bytes": 1506,
+      "targets": [
+        "INDEX.md"
+      ],
+      "disposition": "navigation-replaced",
+      "body_preserved": false,
+      "note": "Source navigation replaced by library index/recipient maps."
+    },
+    {
+      "source": "templates/user-documentation/reference.md",
+      "sha256": "2f0e0a7defa533f47fe881248c1ba067735ada268d621e82057b2aea33e2e9d7",
+      "bytes": 2034,
+      "targets": [
+        "templates/comprehensive/docs/user-documentation/reference.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/user-documentation/troubleshooting.md",
+      "sha256": "2c036b20419b3164adb336389f9c2001404ff940dc1ee1ead7b3a3cdd4da6242",
+      "bytes": 2003,
+      "targets": [
+        "templates/comprehensive/docs/user-documentation/troubleshooting.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    },
+    {
+      "source": "templates/user-documentation/tutorial.md",
+      "sha256": "798fc3bd0098f4249072500642a116e4dae8c4e147394de231a042d02a8edfaa",
+      "bytes": 1964,
+      "targets": [
+        "templates/comprehensive/docs/user-documentation/tutorial.md"
+      ],
+      "disposition": "preserved",
+      "body_preserved": true,
+      "note": "Existing prompted body preserved after metadata routing."
+    }
+  ],
+  "historical_catalog": [
+    {
+      "id": "docs.product.brief",
+      "old_path": "templates/docs/product/brief.md",
+      "targets": [
+        "templates/comprehensive/docs/product/brief.md",
+        "templates/minimal/docs/product.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.product.vision",
+      "old_path": "templates/docs/product/vision.md",
+      "targets": [
+        "templates/comprehensive/docs/product/vision.md",
+        "templates/minimal/docs/product.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.product.prd",
+      "old_path": "templates/docs/product/prd.md",
+      "targets": [
+        "templates/comprehensive/docs/product/prd.md",
+        "templates/minimal/docs/product.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.product.requirements",
+      "old_path": "templates/docs/product/requirements.md",
+      "targets": [
+        "templates/comprehensive/docs/product/requirements.md",
+        "templates/minimal/docs/product.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.product.non-functional-requirements",
+      "old_path": "templates/docs/product/non-functional-requirements.md",
+      "targets": [
+        "templates/comprehensive/docs/product/non-functional-requirements.md",
+        "templates/minimal/docs/product.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.product.stakeholders",
+      "old_path": "templates/docs/product/stakeholders.md",
+      "targets": [
+        "templates/comprehensive/docs/business/stakeholders.md",
+        "templates/minimal/docs/business.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.product.personas",
+      "old_path": "templates/docs/product/personas.md",
+      "targets": [
+        "templates/comprehensive/docs/product/personas.md",
+        "templates/minimal/docs/product.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.product.user-journeys",
+      "old_path": "templates/docs/product/user-journeys.md",
+      "targets": [
+        "templates/comprehensive/docs/product/user-journeys.md",
+        "templates/minimal/docs/product.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.product.roadmap",
+      "old_path": "templates/docs/product/roadmap.md",
+      "targets": [
+        "templates/comprehensive/docs/product/roadmap.md",
+        "templates/minimal/docs/product.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.product.research-plan",
+      "old_path": "templates/docs/product/research-plan.md",
+      "targets": [
+        "templates/comprehensive/docs/product/research-plan.md",
+        "templates/minimal/docs/product.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.product.research-findings",
+      "old_path": "templates/docs/product/research-findings.md",
+      "targets": [
+        "templates/comprehensive/docs/product/research-findings.md",
+        "templates/minimal/docs/product.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.product.business-case",
+      "old_path": "templates/docs/product/business-case.md",
+      "targets": [
+        "templates/comprehensive/docs/business/business-case.md",
+        "templates/minimal/docs/business.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.product.success-metrics",
+      "old_path": "templates/docs/product/success-metrics.md",
+      "targets": [
+        "templates/comprehensive/docs/product/success-metrics.md",
+        "templates/minimal/docs/product.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.product.risk-assumptions",
+      "old_path": "templates/docs/product/risk-assumptions.md",
+      "targets": [
+        "templates/comprehensive/docs/product/risk-assumptions.md",
+        "templates/minimal/docs/product.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.domain.glossary",
+      "old_path": "templates/docs/domain/glossary.md",
+      "targets": [
+        "templates/comprehensive/docs/domain/glossary.md",
+        "templates/minimal/docs/domain.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.domain.domain-model",
+      "old_path": "templates/docs/domain/domain-model.md",
+      "targets": [
+        "templates/comprehensive/docs/domain/domain-model.md",
+        "templates/minimal/docs/domain.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.domain.bounded-contexts",
+      "old_path": "templates/docs/domain/bounded-contexts.md",
+      "targets": [
+        "templates/comprehensive/docs/domain/bounded-contexts.md",
+        "templates/minimal/docs/domain.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.domain.business-rules",
+      "old_path": "templates/docs/domain/business-rules.md",
+      "targets": [
+        "templates/comprehensive/docs/domain/business-rules.md",
+        "templates/minimal/docs/domain.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.domain.invariants",
+      "old_path": "templates/docs/domain/invariants.md",
+      "targets": [
+        "templates/comprehensive/docs/domain/invariants.md",
+        "templates/minimal/docs/domain.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.domain.business-workflows",
+      "old_path": "templates/docs/domain/business-workflows.md",
+      "targets": [
+        "templates/comprehensive/docs/domain/business-workflows.md",
+        "templates/minimal/docs/domain.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.architecture.overview",
+      "old_path": "templates/docs/architecture/overview.md",
+      "targets": [
+        "templates/comprehensive/docs/architecture/overview.md",
+        "templates/minimal/docs/architecture.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.architecture.system-context",
+      "old_path": "templates/docs/architecture/system-context.md",
+      "targets": [
+        "templates/comprehensive/docs/architecture/system-context.md",
+        "templates/minimal/docs/architecture.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.architecture.building-blocks",
+      "old_path": "templates/docs/architecture/building-blocks.md",
+      "targets": [
+        "templates/comprehensive/docs/architecture/building-blocks.md",
+        "templates/minimal/docs/architecture.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.architecture.runtime-view",
+      "old_path": "templates/docs/architecture/runtime-view.md",
+      "targets": [
+        "templates/comprehensive/docs/architecture/runtime-view.md",
+        "templates/minimal/docs/architecture.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.architecture.deployment-view",
+      "old_path": "templates/docs/architecture/deployment-view.md",
+      "targets": [
+        "templates/comprehensive/docs/architecture/deployment-view.md",
+        "templates/minimal/docs/architecture.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.architecture.crosscutting-concepts",
+      "old_path": "templates/docs/architecture/crosscutting-concepts.md",
+      "targets": [
+        "templates/comprehensive/docs/architecture/crosscutting-concepts.md",
+        "templates/minimal/docs/architecture.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.architecture.quality-attributes",
+      "old_path": "templates/docs/architecture/quality-attributes.md",
+      "targets": [
+        "templates/comprehensive/docs/architecture/quality-attributes.md",
+        "templates/minimal/docs/architecture.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.architecture.constraints",
+      "old_path": "templates/docs/architecture/constraints.md",
+      "targets": [
+        "templates/comprehensive/docs/architecture/constraints.md",
+        "templates/minimal/docs/architecture.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.architecture.risks-and-technical-debt",
+      "old_path": "templates/docs/architecture/risks-and-technical-debt.md",
+      "targets": [
+        "templates/comprehensive/docs/architecture/risks-and-technical-debt.md",
+        "templates/minimal/docs/architecture.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.architecture.decision-record",
+      "old_path": "templates/docs/architecture/decision-record.md",
+      "targets": [
+        "templates/comprehensive/docs/decisions/ADR-0000.md",
+        "templates/minimal/docs/decisions/ADR-0000.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.architecture.technical-design",
+      "old_path": "templates/docs/architecture/technical-design.md",
+      "targets": [
+        "templates/comprehensive/docs/changes/change-id/design.md",
+        "templates/minimal/docs/changes/change-id/design.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.interfaces.api-overview",
+      "old_path": "templates/docs/interfaces/api-overview.md",
+      "targets": [
+        "templates/comprehensive/docs/interfaces/api-overview.md",
+        "templates/minimal/docs/interfaces.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.interfaces.api-conventions",
+      "old_path": "templates/docs/interfaces/api-conventions.md",
+      "targets": [
+        "templates/comprehensive/docs/interfaces/api-conventions.md",
+        "templates/minimal/docs/interfaces.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.interfaces.authentication",
+      "old_path": "templates/docs/interfaces/authentication.md",
+      "targets": [
+        "templates/comprehensive/docs/interfaces/authentication.md",
+        "templates/minimal/docs/interfaces.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.interfaces.error-handling",
+      "old_path": "templates/docs/interfaces/error-handling.md",
+      "targets": [
+        "templates/comprehensive/docs/interfaces/error-handling.md",
+        "templates/minimal/docs/interfaces.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.interfaces.versioning",
+      "old_path": "templates/docs/interfaces/versioning.md",
+      "targets": [
+        "templates/comprehensive/docs/interfaces/versioning.md",
+        "templates/minimal/docs/interfaces.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.interfaces.external-integrations",
+      "old_path": "templates/docs/interfaces/external-integrations.md",
+      "targets": [
+        "templates/comprehensive/docs/interfaces/external-integrations.md",
+        "templates/minimal/docs/interfaces.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.interfaces.event-contracts",
+      "old_path": "templates/docs/interfaces/event-contracts.md",
+      "targets": [
+        "templates/comprehensive/docs/interfaces/event-contracts.md",
+        "templates/minimal/docs/interfaces.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.interfaces.compatibility",
+      "old_path": "templates/docs/interfaces/compatibility.md",
+      "targets": [
+        "templates/comprehensive/docs/interfaces/compatibility.md",
+        "templates/minimal/docs/interfaces.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.data.data-model",
+      "old_path": "templates/docs/data/data-model.md",
+      "targets": [
+        "templates/comprehensive/docs/data/data-model.md",
+        "templates/minimal/docs/data.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.data.data-dictionary",
+      "old_path": "templates/docs/data/data-dictionary.md",
+      "targets": [
+        "templates/comprehensive/docs/data/data-dictionary.md",
+        "templates/minimal/docs/data.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.data.persistence",
+      "old_path": "templates/docs/data/persistence.md",
+      "targets": [
+        "templates/comprehensive/docs/data/persistence.md",
+        "templates/minimal/docs/data.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.data.migrations",
+      "old_path": "templates/docs/data/migrations.md",
+      "targets": [
+        "templates/comprehensive/docs/data/migrations.md",
+        "templates/minimal/docs/data.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.data.data-lifecycle",
+      "old_path": "templates/docs/data/data-lifecycle.md",
+      "targets": [
+        "templates/comprehensive/docs/data/data-lifecycle.md",
+        "templates/minimal/docs/data.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.data.retention",
+      "old_path": "templates/docs/data/retention.md",
+      "targets": [
+        "templates/comprehensive/docs/data/retention.md",
+        "templates/minimal/docs/data.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.data.backup-recovery",
+      "old_path": "templates/docs/data/backup-recovery.md",
+      "targets": [
+        "templates/comprehensive/docs/data/backup-recovery.md",
+        "templates/minimal/docs/data.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.experience.ux-principles",
+      "old_path": "templates/docs/experience/ux-principles.md",
+      "targets": [
+        "templates/comprehensive/docs/experience/ux-principles.md",
+        "templates/minimal/docs/experience.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.experience.information-architecture",
+      "old_path": "templates/docs/experience/information-architecture.md",
+      "targets": [
+        "templates/comprehensive/docs/experience/information-architecture.md",
+        "templates/minimal/docs/experience.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.experience.user-flows",
+      "old_path": "templates/docs/experience/user-flows.md",
+      "targets": [
+        "templates/comprehensive/docs/experience/user-flows.md",
+        "templates/minimal/docs/experience.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.experience.design-system",
+      "old_path": "templates/docs/experience/design-system.md",
+      "targets": [
+        "templates/comprehensive/docs/experience/design-system.md",
+        "templates/minimal/docs/experience.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.experience.component-guidelines",
+      "old_path": "templates/docs/experience/component-guidelines.md",
+      "targets": [
+        "templates/comprehensive/docs/experience/component-guidelines.md",
+        "templates/minimal/docs/experience.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.experience.interaction-patterns",
+      "old_path": "templates/docs/experience/interaction-patterns.md",
+      "targets": [
+        "templates/comprehensive/docs/experience/interaction-patterns.md",
+        "templates/minimal/docs/experience.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.experience.accessibility",
+      "old_path": "templates/docs/experience/accessibility.md",
+      "targets": [
+        "templates/comprehensive/docs/experience/accessibility.md",
+        "templates/minimal/docs/experience.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.experience.content-guidelines",
+      "old_path": "templates/docs/experience/content-guidelines.md",
+      "targets": [
+        "templates/comprehensive/docs/experience/content-guidelines.md",
+        "templates/minimal/docs/experience.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.experience.localization",
+      "old_path": "templates/docs/experience/localization.md",
+      "targets": [
+        "templates/comprehensive/docs/experience/localization.md",
+        "templates/minimal/docs/experience.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.experience.usability-test-plan",
+      "old_path": "templates/docs/experience/usability-test-plan.md",
+      "targets": [
+        "templates/comprehensive/docs/experience/usability-test-plan.md",
+        "templates/minimal/docs/experience.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.engineering.development-setup",
+      "old_path": "templates/docs/engineering/development-setup.md",
+      "targets": [
+        "templates/comprehensive/docs/engineering/development-setup.md",
+        "templates/minimal/docs/engineering.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.engineering.codebase-guide",
+      "old_path": "templates/docs/engineering/codebase-guide.md",
+      "targets": [
+        "templates/comprehensive/docs/engineering/codebase-guide.md",
+        "templates/minimal/docs/engineering.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.engineering.coding-conventions",
+      "old_path": "templates/docs/engineering/coding-conventions.md",
+      "targets": [
+        "templates/comprehensive/docs/engineering/coding-conventions.md",
+        "templates/minimal/docs/engineering.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.engineering.testing-strategy",
+      "old_path": "templates/docs/engineering/testing-strategy.md",
+      "targets": [
+        "templates/comprehensive/docs/engineering/testing-strategy.md",
+        "templates/minimal/docs/engineering.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.engineering.code-review",
+      "old_path": "templates/docs/engineering/code-review.md",
+      "targets": [
+        "templates/comprehensive/docs/engineering/code-review.md",
+        "templates/minimal/docs/engineering.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.engineering.branching-strategy",
+      "old_path": "templates/docs/engineering/branching-strategy.md",
+      "targets": [
+        "templates/comprehensive/docs/engineering/branching-strategy.md",
+        "templates/minimal/docs/engineering.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.engineering.dependency-management",
+      "old_path": "templates/docs/engineering/dependency-management.md",
+      "targets": [
+        "templates/comprehensive/docs/engineering/dependency-management.md",
+        "templates/minimal/docs/engineering.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.security.security-architecture",
+      "old_path": "templates/docs/security/security-architecture.md",
+      "targets": [
+        "templates/comprehensive/docs/security/security-architecture.md",
+        "templates/minimal/docs/security.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.security.threat-model",
+      "old_path": "templates/docs/security/threat-model.md",
+      "targets": [
+        "templates/comprehensive/docs/security/threat-model.md",
+        "templates/minimal/docs/security.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.security.authorization-model",
+      "old_path": "templates/docs/security/authorization-model.md",
+      "targets": [
+        "templates/comprehensive/docs/security/authorization-model.md",
+        "templates/minimal/docs/security.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.security.secrets-management",
+      "old_path": "templates/docs/security/secrets-management.md",
+      "targets": [
+        "templates/comprehensive/docs/security/secrets-management.md",
+        "templates/minimal/docs/security.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.security.secure-development",
+      "old_path": "templates/docs/security/secure-development.md",
+      "targets": [
+        "templates/comprehensive/docs/security/secure-development.md",
+        "templates/minimal/docs/security.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.security.supply-chain-security",
+      "old_path": "templates/docs/security/supply-chain-security.md",
+      "targets": [
+        "templates/comprehensive/docs/security/supply-chain-security.md",
+        "templates/minimal/docs/security.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.security.compliance",
+      "old_path": "templates/docs/security/compliance.md",
+      "targets": [
+        "templates/comprehensive/docs/security/compliance.md",
+        "templates/minimal/docs/security.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.security.privacy-risk",
+      "old_path": "templates/docs/security/privacy-risk.md",
+      "targets": [
+        "templates/comprehensive/docs/security/privacy-risk.md",
+        "templates/minimal/docs/security.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.security.data-processing-register",
+      "old_path": "templates/docs/security/data-processing-register.md",
+      "targets": [
+        "templates/comprehensive/docs/security/data-processing-register.md",
+        "templates/minimal/docs/security.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.operations.environments",
+      "old_path": "templates/docs/operations/environments.md",
+      "targets": [
+        "templates/comprehensive/docs/operations/environments.md",
+        "templates/minimal/docs/operations.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.operations.deployment",
+      "old_path": "templates/docs/operations/deployment.md",
+      "targets": [
+        "templates/comprehensive/docs/operations/deployment.md",
+        "templates/minimal/docs/operations.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.operations.ci-cd",
+      "old_path": "templates/docs/operations/ci-cd.md",
+      "targets": [
+        "templates/comprehensive/docs/operations/ci-cd.md",
+        "templates/minimal/docs/operations.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.operations.observability",
+      "old_path": "templates/docs/operations/observability.md",
+      "targets": [
+        "templates/comprehensive/docs/operations/observability.md",
+        "templates/minimal/docs/operations.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.operations.sli-slo",
+      "old_path": "templates/docs/operations/sli-slo.md",
+      "targets": [
+        "templates/comprehensive/docs/operations/sli-slo.md",
+        "templates/minimal/docs/operations.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.operations.runbook",
+      "old_path": "templates/docs/operations/runbook.md",
+      "targets": [
+        "templates/comprehensive/docs/operations/runbook.md",
+        "templates/minimal/docs/operations.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.operations.incident-response",
+      "old_path": "templates/docs/operations/incident-response.md",
+      "targets": [
+        "templates/comprehensive/docs/operations/incident-response.md",
+        "templates/minimal/docs/operations.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.operations.disaster-recovery",
+      "old_path": "templates/docs/operations/disaster-recovery.md",
+      "targets": [
+        "templates/comprehensive/docs/operations/disaster-recovery.md",
+        "templates/minimal/docs/operations.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.operations.rollback",
+      "old_path": "templates/docs/operations/rollback.md",
+      "targets": [
+        "templates/comprehensive/docs/operations/rollback.md",
+        "templates/minimal/docs/operations.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.operations.capacity-planning",
+      "old_path": "templates/docs/operations/capacity-planning.md",
+      "targets": [
+        "templates/comprehensive/docs/operations/capacity-planning.md",
+        "templates/minimal/docs/operations.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.operations.service-ownership",
+      "old_path": "templates/docs/operations/service-ownership.md",
+      "targets": [
+        "templates/comprehensive/docs/operations/service-ownership.md",
+        "templates/minimal/docs/operations.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.operations.maintenance",
+      "old_path": "templates/docs/operations/maintenance.md",
+      "targets": [
+        "templates/comprehensive/docs/operations/maintenance.md",
+        "templates/minimal/docs/operations.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.operations.cost-management",
+      "old_path": "templates/docs/operations/cost-management.md",
+      "targets": [
+        "templates/comprehensive/docs/operations/cost-management.md",
+        "templates/minimal/docs/operations.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.operations.support-playbook",
+      "old_path": "templates/docs/operations/support-playbook.md",
+      "targets": [
+        "templates/comprehensive/docs/operations/support-playbook.md",
+        "templates/minimal/docs/operations.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.delivery.change-proposal",
+      "old_path": "templates/docs/delivery/change-proposal.md",
+      "targets": [
+        "templates/comprehensive/docs/delivery/change-proposal.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.delivery.rfc",
+      "old_path": "templates/docs/delivery/rfc.md",
+      "targets": [
+        "templates/comprehensive/docs/delivery/rfc.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.delivery.implementation-plan",
+      "old_path": "templates/docs/delivery/implementation-plan.md",
+      "targets": [
+        "templates/comprehensive/docs/changes/change-id/plan.md",
+        "templates/minimal/docs/changes/change-id/plan.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.delivery.acceptance-criteria",
+      "old_path": "templates/docs/delivery/acceptance-criteria.md",
+      "targets": [
+        "templates/comprehensive/docs/delivery/acceptance-criteria.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.delivery.verification-report",
+      "old_path": "templates/docs/delivery/verification-report.md",
+      "targets": [
+        "templates/comprehensive/docs/changes/change-id/verification.md",
+        "templates/minimal/docs/changes/change-id/verification.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.delivery.release-checklist",
+      "old_path": "templates/docs/delivery/release-checklist.md",
+      "targets": [
+        "templates/comprehensive/docs/delivery/release-checklist.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.delivery.release-notes",
+      "old_path": "templates/docs/delivery/release-notes.md",
+      "targets": [
+        "templates/comprehensive/docs/delivery/release-notes.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.delivery.migration-guide",
+      "old_path": "templates/docs/delivery/migration-guide.md",
+      "targets": [
+        "templates/comprehensive/docs/delivery/migration-guide.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.delivery.deprecation-plan",
+      "old_path": "templates/docs/delivery/deprecation-plan.md",
+      "targets": [
+        "templates/comprehensive/docs/delivery/deprecation-plan.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.delivery.postmortem",
+      "old_path": "templates/docs/delivery/postmortem.md",
+      "targets": [
+        "templates/comprehensive/docs/incidents/incident-id.md",
+        "templates/minimal/docs/incidents/incident-id.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.delivery.launch-plan",
+      "old_path": "templates/docs/delivery/launch-plan.md",
+      "targets": [
+        "templates/comprehensive/docs/delivery/launch-plan.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.delivery.retrospective",
+      "old_path": "templates/docs/delivery/retrospective.md",
+      "targets": [
+        "templates/comprehensive/docs/delivery/retrospective.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.delivery.retirement-plan",
+      "old_path": "templates/docs/delivery/retirement-plan.md",
+      "targets": [
+        "templates/comprehensive/docs/delivery/retirement-plan.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.delivery.feedback-review",
+      "old_path": "templates/docs/delivery/feedback-review.md",
+      "targets": [
+        "templates/comprehensive/docs/delivery/feedback-review.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.delivery.experiment-plan",
+      "old_path": "templates/docs/delivery/experiment-plan.md",
+      "targets": [
+        "templates/comprehensive/docs/delivery/experiment-plan.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.delivery.experiment-results",
+      "old_path": "templates/docs/delivery/experiment-results.md",
+      "targets": [
+        "templates/comprehensive/docs/delivery/experiment-results.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.user-documentation.quickstart",
+      "old_path": "templates/docs/user-documentation/quickstart.md",
+      "targets": [
+        "templates/comprehensive/docs/user-documentation/quickstart.md",
+        "templates/minimal/docs/user-documentation.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.user-documentation.installation",
+      "old_path": "templates/docs/user-documentation/installation.md",
+      "targets": [
+        "templates/comprehensive/docs/user-documentation/installation.md",
+        "templates/minimal/docs/user-documentation.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.user-documentation.tutorial",
+      "old_path": "templates/docs/user-documentation/tutorial.md",
+      "targets": [
+        "templates/comprehensive/docs/user-documentation/tutorial.md",
+        "templates/minimal/docs/user-documentation.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.user-documentation.how-to",
+      "old_path": "templates/docs/user-documentation/how-to.md",
+      "targets": [
+        "templates/comprehensive/docs/user-documentation/how-to.md",
+        "templates/minimal/docs/user-documentation.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.user-documentation.reference",
+      "old_path": "templates/docs/user-documentation/reference.md",
+      "targets": [
+        "templates/comprehensive/docs/user-documentation/reference.md",
+        "templates/minimal/docs/user-documentation.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.user-documentation.troubleshooting",
+      "old_path": "templates/docs/user-documentation/troubleshooting.md",
+      "targets": [
+        "templates/comprehensive/docs/user-documentation/troubleshooting.md",
+        "templates/minimal/docs/user-documentation.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.user-documentation.faq",
+      "old_path": "templates/docs/user-documentation/faq.md",
+      "targets": [
+        "templates/comprehensive/docs/user-documentation/faq.md",
+        "templates/minimal/docs/user-documentation.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.user-documentation.explanation",
+      "old_path": "templates/docs/user-documentation/explanation.md",
+      "targets": [
+        "templates/comprehensive/docs/user-documentation/explanation.md",
+        "templates/minimal/docs/user-documentation.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.ai-systems.model-selection",
+      "old_path": "templates/docs/ai-systems/model-selection.md",
+      "targets": [
+        "templates-ai/comprehensive/docs/ai-systems/model-selection.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.ai-systems.prompt-contracts",
+      "old_path": "templates/docs/ai-systems/prompt-contracts.md",
+      "targets": [
+        "templates-ai/comprehensive/docs/ai-systems/prompt-contracts.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.ai-systems.evaluation-plan",
+      "old_path": "templates/docs/ai-systems/evaluation-plan.md",
+      "targets": [
+        "templates-ai/comprehensive/docs/ai-systems/evaluation-plan.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.ai-systems.dataset-governance",
+      "old_path": "templates/docs/ai-systems/dataset-governance.md",
+      "targets": [
+        "templates-ai/comprehensive/docs/ai-systems/dataset-governance.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.ai-systems.model-risk",
+      "old_path": "templates/docs/ai-systems/model-risk.md",
+      "targets": [
+        "templates-ai/comprehensive/docs/ai-systems/model-risk.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.ai-systems.monitoring",
+      "old_path": "templates/docs/ai-systems/monitoring.md",
+      "targets": [
+        "templates-ai/comprehensive/docs/ai-systems/monitoring.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.ai-systems.system-overview",
+      "old_path": "templates/docs/ai-systems/system-overview.md",
+      "targets": [
+        "templates-ai/comprehensive/docs/ai-systems/system-overview.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "repository.baseline.readme",
+      "old_path": "templates/repository/README.md",
+      "targets": [
+        "templates/minimal/README.md",
+        "templates/comprehensive/README.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "repository.baseline.docs-index",
+      "old_path": "templates/repository/docs-index.md",
+      "targets": [
+        "templates/minimal/docs/README.md",
+        "templates/comprehensive/docs/README.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "repository.community.contributing",
+      "old_path": "templates/repository/CONTRIBUTING.md",
+      "targets": [
+        "templates/minimal/CONTRIBUTING.md",
+        "templates/comprehensive/CONTRIBUTING.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "repository.community.code-of-conduct",
+      "old_path": "templates/repository/CODE_OF_CONDUCT.md",
+      "targets": [
+        "templates/minimal/CODE_OF_CONDUCT.md",
+        "templates/comprehensive/CODE_OF_CONDUCT.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "repository.community.security",
+      "old_path": "templates/repository/SECURITY.md",
+      "targets": [
+        "templates/minimal/SECURITY.md",
+        "templates/comprehensive/SECURITY.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "repository.community.support",
+      "old_path": "templates/repository/SUPPORT.md",
+      "targets": [
+        "templates/minimal/SUPPORT.md",
+        "templates/comprehensive/SUPPORT.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "repository.community.governance",
+      "old_path": "templates/repository/GOVERNANCE.md",
+      "targets": [
+        "templates/minimal/GOVERNANCE.md",
+        "templates/comprehensive/GOVERNANCE.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "repository.community.changelog",
+      "old_path": "templates/repository/CHANGELOG.md",
+      "targets": [
+        "templates/minimal/CHANGELOG.md",
+        "templates/comprehensive/CHANGELOG.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "agents.instructions.agents",
+      "old_path": "templates/agent-guidance/AGENTS.md.template",
+      "targets": [
+        "templates-agent-workflow/minimal/AGENTS.md",
+        "templates-agent-workflow/comprehensive/AGENTS.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "agents.instructions.scoped-agents",
+      "old_path": "templates/agent-guidance/scoped-AGENTS.md.template",
+      "targets": [
+        "templates-agent-workflow/minimal/docs/AGENTS.md",
+        "templates-agent-workflow/comprehensive/docs/AGENTS.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "agents.context.session-handoff",
+      "old_path": "templates/agent-guidance/session-handoff.md",
+      "targets": [
+        "templates-agent-workflow/minimal/.local/agent/HANDOFF.md",
+        "templates-workspace/minimal/notes/project-name/HANDOFF.md",
+        "templates-agent-workflow/comprehensive/.local/agent/HANDOFF.md",
+        "templates-workspace/comprehensive/notes/project-name/HANDOFF.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "contracts.openapi",
+      "old_path": "templates/contracts/openapi.yaml.template",
+      "targets": [
+        "templates/minimal/contracts/openapi.yaml",
+        "templates/comprehensive/contracts/openapi.yaml"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "contracts.asyncapi",
+      "old_path": "templates/contracts/asyncapi.yaml.template",
+      "targets": [
+        "templates/minimal/contracts/asyncapi.yaml",
+        "templates/comprehensive/contracts/asyncapi.yaml"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "contracts.json-schema",
+      "old_path": "templates/contracts/json-schema.json.template",
+      "targets": [
+        "templates/minimal/contracts/json-schema.json",
+        "templates/comprehensive/contracts/json-schema.json"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "contracts.graphql",
+      "old_path": "templates/contracts/graphql.graphql.template",
+      "targets": [
+        "templates/minimal/contracts/graphql.graphql",
+        "templates/comprehensive/contracts/graphql.graphql"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "contracts.protobuf",
+      "old_path": "templates/contracts/protobuf.proto.template",
+      "targets": [
+        "templates/minimal/contracts/protobuf.proto",
+        "templates/comprehensive/contracts/protobuf.proto"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "automation.github.bug-report",
+      "old_path": "templates/repository/requests/bug-report.md",
+      "targets": [
+        "templates/minimal/docs/delivery/requests/bug-report.md",
+        "templates/comprehensive/docs/delivery/requests/bug-report.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "automation.github.feature-request",
+      "old_path": "templates/repository/requests/feature-request.md",
+      "targets": [
+        "templates/minimal/docs/delivery/requests/feature-request.md",
+        "templates/comprehensive/docs/delivery/requests/feature-request.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "automation.github.template-request",
+      "old_path": "templates/repository/requests/template-request.md",
+      "targets": [
+        "templates/minimal/docs/delivery/requests/template-request.md",
+        "templates/comprehensive/docs/delivery/requests/template-request.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "automation.github.documentation-issue",
+      "old_path": "templates/repository/requests/documentation-issue.md",
+      "targets": [
+        "templates/minimal/docs/delivery/requests/documentation-issue.md",
+        "templates/comprehensive/docs/delivery/requests/documentation-issue.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "automation.github.pull-request",
+      "old_path": "templates/repository/requests/pull-request.md",
+      "targets": [
+        "templates/minimal/docs/delivery/requests/pull-request.md",
+        "templates/comprehensive/docs/delivery/requests/pull-request.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.product.business-requirements",
+      "old_path": "templates/docs/product/business-requirements.md",
+      "targets": [
+        "templates/comprehensive/docs/business/business-requirements.md",
+        "templates/minimal/docs/business.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.product.metric-definitions",
+      "old_path": "templates/docs/product/metric-definitions.md",
+      "targets": [
+        "templates/comprehensive/docs/product/metric-definitions.md",
+        "templates/minimal/docs/product.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.delivery.master-plan",
+      "old_path": "templates/docs/delivery/master-plan.md",
+      "targets": [
+        "templates/comprehensive/docs/delivery/master-plan.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.delivery.phase-plan",
+      "old_path": "templates/docs/delivery/phase-plan.md",
+      "targets": [
+        "templates/comprehensive/docs/delivery/phase-plan.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.engineering.test-plan",
+      "old_path": "templates/docs/engineering/test-plan.md",
+      "targets": [
+        "templates/comprehensive/docs/engineering/test-plan.md",
+        "templates/minimal/docs/engineering.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.engineering.working-agreement",
+      "old_path": "templates/docs/engineering/working-agreement.md",
+      "targets": [
+        "templates/comprehensive/docs/engineering/working-agreement.md",
+        "templates/minimal/docs/engineering.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.engineering.documentation-maintenance",
+      "old_path": "templates/docs/engineering/documentation-maintenance.md",
+      "targets": [
+        "templates/comprehensive/docs/engineering/documentation-maintenance.md",
+        "templates/minimal/docs/engineering.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.engineering.performance-budget",
+      "old_path": "templates/docs/engineering/performance-budget.md",
+      "targets": [
+        "templates/comprehensive/docs/engineering/performance-budget.md",
+        "templates/minimal/docs/engineering.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.engineering.performance-review",
+      "old_path": "templates/docs/engineering/performance-review.md",
+      "targets": [
+        "templates/comprehensive/docs/engineering/performance-review.md",
+        "templates/minimal/docs/engineering.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.data.data-contract",
+      "old_path": "templates/docs/data/data-contract.md",
+      "targets": [
+        "templates-data/comprehensive/docs/data-workloads/data-contract.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.data.pipeline-design",
+      "old_path": "templates/docs/data/pipeline-design.md",
+      "targets": [
+        "templates-data/comprehensive/docs/data-workloads/pipeline-design.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.data.backfill-plan",
+      "old_path": "templates/docs/data/backfill-plan.md",
+      "targets": [
+        "templates-data/comprehensive/docs/data-workloads/backfill-plan.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.data.data-quality",
+      "old_path": "templates/docs/data/data-quality.md",
+      "targets": [
+        "templates-data/comprehensive/docs/data-workloads/data-quality.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.data.data-lineage",
+      "old_path": "templates/docs/data/data-lineage.md",
+      "targets": [
+        "templates-data/comprehensive/docs/data-workloads/data-lineage.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.data.dataset-catalog",
+      "old_path": "templates/docs/data/dataset-catalog.md",
+      "targets": [
+        "templates-data/comprehensive/docs/data-workloads/dataset-catalog.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.experience.accessibility-test-plan",
+      "old_path": "templates/docs/experience/accessibility-test-plan.md",
+      "targets": [
+        "templates/comprehensive/docs/experience/accessibility-test-plan.md",
+        "templates/minimal/docs/experience.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.experience.accessibility-statement",
+      "old_path": "templates/docs/experience/accessibility-statement.md",
+      "targets": [
+        "templates/comprehensive/docs/experience/accessibility-statement.md",
+        "templates/minimal/docs/experience.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.experience.browser-support",
+      "old_path": "templates/docs/experience/browser-support.md",
+      "targets": [
+        "templates/comprehensive/docs/experience/browser-support.md",
+        "templates/minimal/docs/experience.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    },
+    {
+      "id": "docs.experience.brand-guidelines",
+      "old_path": "templates/docs/experience/brand-guidelines.md",
+      "targets": [
+        "templates/comprehensive/docs/experience/brand-guidelines.md",
+        "templates/minimal/docs/experience.md"
+      ],
+      "disposition": "retained/refined/specialized"
+    }
+  ],
+  "original_full_tree": [
+    {
+      "id": "docs.product.brief",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/product/brief.md",
+        "templates/minimal/docs/product.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.product.vision",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/product/vision.md",
+        "templates/minimal/docs/product.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.product.prd",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/product/prd.md",
+        "templates/minimal/docs/product.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.product.requirements",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/product/requirements.md",
+        "templates/minimal/docs/product.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.product.non-functional-requirements",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/product/non-functional-requirements.md",
+        "templates/minimal/docs/product.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.product.stakeholders",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/business/stakeholders.md",
+        "templates/minimal/docs/business.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.product.personas",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/product/personas.md",
+        "templates/minimal/docs/product.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.product.user-journeys",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/product/user-journeys.md",
+        "templates/minimal/docs/product.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.product.roadmap",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/product/roadmap.md",
+        "templates/minimal/docs/product.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.product.research-plan",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/product/research-plan.md",
+        "templates/minimal/docs/product.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.product.research-findings",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/product/research-findings.md",
+        "templates/minimal/docs/product.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.product.business-case",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/business/business-case.md",
+        "templates/minimal/docs/business.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.product.success-metrics",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/product/success-metrics.md",
+        "templates/minimal/docs/product.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.product.risk-assumptions",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/product/risk-assumptions.md",
+        "templates/minimal/docs/product.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.domain.glossary",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/domain/glossary.md",
+        "templates/minimal/docs/domain.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.domain.domain-model",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/domain/domain-model.md",
+        "templates/minimal/docs/domain.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.domain.bounded-contexts",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/domain/bounded-contexts.md",
+        "templates/minimal/docs/domain.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.domain.business-rules",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/domain/business-rules.md",
+        "templates/minimal/docs/domain.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.domain.invariants",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/domain/invariants.md",
+        "templates/minimal/docs/domain.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.domain.business-workflows",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/domain/business-workflows.md",
+        "templates/minimal/docs/domain.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.architecture.overview",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/architecture/overview.md",
+        "templates/minimal/docs/architecture.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.architecture.system-context",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/architecture/system-context.md",
+        "templates/minimal/docs/architecture.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.architecture.building-blocks",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/architecture/building-blocks.md",
+        "templates/minimal/docs/architecture.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.architecture.runtime-view",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/architecture/runtime-view.md",
+        "templates/minimal/docs/architecture.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.architecture.deployment-view",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/architecture/deployment-view.md",
+        "templates/minimal/docs/architecture.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.architecture.crosscutting-concepts",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/architecture/crosscutting-concepts.md",
+        "templates/minimal/docs/architecture.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.architecture.quality-attributes",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/architecture/quality-attributes.md",
+        "templates/minimal/docs/architecture.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.architecture.constraints",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/architecture/constraints.md",
+        "templates/minimal/docs/architecture.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.architecture.risks-and-technical-debt",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/architecture/risks-and-technical-debt.md",
+        "templates/minimal/docs/architecture.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.architecture.decision-record",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/decisions/ADR-0000.md",
+        "templates/minimal/docs/decisions/ADR-0000.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.architecture.technical-design",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/changes/change-id/design.md",
+        "templates/minimal/docs/changes/change-id/design.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.interfaces.api-overview",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/interfaces/api-overview.md",
+        "templates/minimal/docs/interfaces.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.interfaces.api-conventions",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/interfaces/api-conventions.md",
+        "templates/minimal/docs/interfaces.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.interfaces.authentication",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/interfaces/authentication.md",
+        "templates/minimal/docs/interfaces.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.interfaces.error-handling",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/interfaces/error-handling.md",
+        "templates/minimal/docs/interfaces.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.interfaces.versioning",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/interfaces/versioning.md",
+        "templates/minimal/docs/interfaces.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.interfaces.external-integrations",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/interfaces/external-integrations.md",
+        "templates/minimal/docs/interfaces.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.interfaces.event-contracts",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/interfaces/event-contracts.md",
+        "templates/minimal/docs/interfaces.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.interfaces.compatibility",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/interfaces/compatibility.md",
+        "templates/minimal/docs/interfaces.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.data.data-model",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/data/data-model.md",
+        "templates/minimal/docs/data.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.data.data-dictionary",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/data/data-dictionary.md",
+        "templates/minimal/docs/data.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.data.persistence",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/data/persistence.md",
+        "templates/minimal/docs/data.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.data.migrations",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/data/migrations.md",
+        "templates/minimal/docs/data.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.data.data-lifecycle",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/data/data-lifecycle.md",
+        "templates/minimal/docs/data.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.data.retention",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/data/retention.md",
+        "templates/minimal/docs/data.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.data.backup-recovery",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/data/backup-recovery.md",
+        "templates/minimal/docs/data.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.experience.ux-principles",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/experience/ux-principles.md",
+        "templates/minimal/docs/experience.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.experience.information-architecture",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/experience/information-architecture.md",
+        "templates/minimal/docs/experience.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.experience.user-flows",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/experience/user-flows.md",
+        "templates/minimal/docs/experience.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.experience.design-system",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/experience/design-system.md",
+        "templates/minimal/docs/experience.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.experience.component-guidelines",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/experience/component-guidelines.md",
+        "templates/minimal/docs/experience.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.experience.interaction-patterns",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/experience/interaction-patterns.md",
+        "templates/minimal/docs/experience.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.experience.accessibility",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/experience/accessibility.md",
+        "templates/minimal/docs/experience.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.experience.content-guidelines",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/experience/content-guidelines.md",
+        "templates/minimal/docs/experience.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.experience.localization",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/experience/localization.md",
+        "templates/minimal/docs/experience.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.experience.usability-test-plan",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/experience/usability-test-plan.md",
+        "templates/minimal/docs/experience.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.engineering.development-setup",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/engineering/development-setup.md",
+        "templates/minimal/docs/engineering.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.engineering.codebase-guide",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/engineering/codebase-guide.md",
+        "templates/minimal/docs/engineering.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.engineering.coding-conventions",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/engineering/coding-conventions.md",
+        "templates/minimal/docs/engineering.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.engineering.testing-strategy",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/engineering/testing-strategy.md",
+        "templates/minimal/docs/engineering.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.engineering.code-review",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/engineering/code-review.md",
+        "templates/minimal/docs/engineering.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.engineering.branching-strategy",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/engineering/branching-strategy.md",
+        "templates/minimal/docs/engineering.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.engineering.dependency-management",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/engineering/dependency-management.md",
+        "templates/minimal/docs/engineering.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.security.security-architecture",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/security/security-architecture.md",
+        "templates/minimal/docs/security.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.security.threat-model",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/security/threat-model.md",
+        "templates/minimal/docs/security.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.security.authorization-model",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/security/authorization-model.md",
+        "templates/minimal/docs/security.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.security.secrets-management",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/security/secrets-management.md",
+        "templates/minimal/docs/security.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.security.secure-development",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/security/secure-development.md",
+        "templates/minimal/docs/security.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.security.supply-chain-security",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/security/supply-chain-security.md",
+        "templates/minimal/docs/security.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.security.compliance",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/security/compliance.md",
+        "templates/minimal/docs/security.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.security.privacy-risk",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/security/privacy-risk.md",
+        "templates/minimal/docs/security.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.security.data-processing-register",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/security/data-processing-register.md",
+        "templates/minimal/docs/security.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.operations.environments",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/operations/environments.md",
+        "templates/minimal/docs/operations.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.operations.deployment",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/operations/deployment.md",
+        "templates/minimal/docs/operations.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.operations.ci-cd",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/operations/ci-cd.md",
+        "templates/minimal/docs/operations.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.operations.observability",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/operations/observability.md",
+        "templates/minimal/docs/operations.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.operations.sli-slo",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/operations/sli-slo.md",
+        "templates/minimal/docs/operations.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.operations.runbook",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/operations/runbook.md",
+        "templates/minimal/docs/operations.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.operations.incident-response",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/operations/incident-response.md",
+        "templates/minimal/docs/operations.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.operations.disaster-recovery",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/operations/disaster-recovery.md",
+        "templates/minimal/docs/operations.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.operations.rollback",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/operations/rollback.md",
+        "templates/minimal/docs/operations.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.operations.capacity-planning",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/operations/capacity-planning.md",
+        "templates/minimal/docs/operations.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.operations.service-ownership",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/operations/service-ownership.md",
+        "templates/minimal/docs/operations.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.operations.maintenance",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/operations/maintenance.md",
+        "templates/minimal/docs/operations.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.operations.cost-management",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/operations/cost-management.md",
+        "templates/minimal/docs/operations.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.operations.support-playbook",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/operations/support-playbook.md",
+        "templates/minimal/docs/operations.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.delivery.change-proposal",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/delivery/change-proposal.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.delivery.rfc",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/delivery/rfc.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.delivery.implementation-plan",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/changes/change-id/plan.md",
+        "templates/minimal/docs/changes/change-id/plan.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.delivery.acceptance-criteria",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/delivery/acceptance-criteria.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.delivery.verification-report",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/changes/change-id/verification.md",
+        "templates/minimal/docs/changes/change-id/verification.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.delivery.release-checklist",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/delivery/release-checklist.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.delivery.release-notes",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/delivery/release-notes.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.delivery.migration-guide",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/delivery/migration-guide.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.delivery.deprecation-plan",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/delivery/deprecation-plan.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.delivery.postmortem",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/incidents/incident-id.md",
+        "templates/minimal/docs/incidents/incident-id.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.delivery.launch-plan",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/delivery/launch-plan.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.delivery.retrospective",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/delivery/retrospective.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.delivery.retirement-plan",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/delivery/retirement-plan.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.delivery.feedback-review",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/delivery/feedback-review.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.delivery.experiment-plan",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/delivery/experiment-plan.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.delivery.experiment-results",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/delivery/experiment-results.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.user-documentation.quickstart",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/user-documentation/quickstart.md",
+        "templates/minimal/docs/user-documentation.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.user-documentation.installation",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/user-documentation/installation.md",
+        "templates/minimal/docs/user-documentation.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.user-documentation.tutorial",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/user-documentation/tutorial.md",
+        "templates/minimal/docs/user-documentation.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.user-documentation.how-to",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/user-documentation/how-to.md",
+        "templates/minimal/docs/user-documentation.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.user-documentation.reference",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/user-documentation/reference.md",
+        "templates/minimal/docs/user-documentation.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.user-documentation.troubleshooting",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/user-documentation/troubleshooting.md",
+        "templates/minimal/docs/user-documentation.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.user-documentation.faq",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/user-documentation/faq.md",
+        "templates/minimal/docs/user-documentation.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.user-documentation.explanation",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/user-documentation/explanation.md",
+        "templates/minimal/docs/user-documentation.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.ai-systems.model-selection",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates-ai/comprehensive/docs/ai-systems/model-selection.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.ai-systems.prompt-contracts",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates-ai/comprehensive/docs/ai-systems/prompt-contracts.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.ai-systems.evaluation-plan",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates-ai/comprehensive/docs/ai-systems/evaluation-plan.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.ai-systems.dataset-governance",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates-ai/comprehensive/docs/ai-systems/dataset-governance.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.ai-systems.model-risk",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates-ai/comprehensive/docs/ai-systems/model-risk.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.ai-systems.monitoring",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates-ai/comprehensive/docs/ai-systems/monitoring.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "docs.ai-systems.system-overview",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates-ai/comprehensive/docs/ai-systems/system-overview.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "repository.baseline.readme",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/minimal/README.md",
+        "templates/comprehensive/README.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "repository.baseline.docs-index",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/minimal/docs/README.md",
+        "templates/comprehensive/docs/README.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "repository.baseline.editorconfig",
+      "previous_disposition": "EXCLUDE",
+      "current_disposition": "excluded-specific-runtime-configuration",
+      "targets": [],
+      "reason": "No generic target-project runtime/CI/MCP setup is prescribed; existing native authority remains project-specific. Historical input is preserved."
+    },
+    {
+      "id": "repository.baseline.gitattributes",
+      "previous_disposition": "EXCLUDE",
+      "current_disposition": "excluded-specific-runtime-configuration",
+      "targets": [],
+      "reason": "No generic target-project runtime/CI/MCP setup is prescribed; existing native authority remains project-specific. Historical input is preserved."
+    },
+    {
+      "id": "repository.baseline.gitignore",
+      "previous_disposition": "EXCLUDE",
+      "current_disposition": "excluded-specific-runtime-configuration",
+      "targets": [],
+      "reason": "No generic target-project runtime/CI/MCP setup is prescribed; existing native authority remains project-specific. Historical input is preserved."
+    },
+    {
+      "id": "repository.baseline.env-example",
+      "previous_disposition": "EXCLUDE",
+      "current_disposition": "excluded-specific-runtime-configuration",
+      "targets": [],
+      "reason": "No generic target-project runtime/CI/MCP setup is prescribed; existing native authority remains project-specific. Historical input is preserved."
+    },
+    {
+      "id": "repository.baseline.project-overview",
+      "previous_disposition": "MERGE",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/minimal/README.md",
+        "templates/comprehensive/README.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "repository.community.contributing",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/minimal/CONTRIBUTING.md",
+        "templates/comprehensive/CONTRIBUTING.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "repository.community.code-of-conduct",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/minimal/CODE_OF_CONDUCT.md",
+        "templates/comprehensive/CODE_OF_CONDUCT.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "repository.community.security",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/minimal/SECURITY.md",
+        "templates/comprehensive/SECURITY.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "repository.community.support",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/minimal/SUPPORT.md",
+        "templates/comprehensive/SUPPORT.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "repository.community.governance",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/minimal/GOVERNANCE.md",
+        "templates/comprehensive/GOVERNANCE.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "repository.community.changelog",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/minimal/CHANGELOG.md",
+        "templates/comprehensive/CHANGELOG.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "repository.community.license-mit",
+      "previous_disposition": "EXCLUDE",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/minimal/LICENSE-MIT",
+        "templates/comprehensive/LICENSE-MIT"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "repository.community.license-apache-2",
+      "previous_disposition": "EXCLUDE",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/minimal/LICENSE-APACHE",
+        "templates/comprehensive/LICENSE-APACHE"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "agents.instructions.agents",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates-agent-workflow/minimal/AGENTS.md",
+        "templates-agent-workflow/comprehensive/AGENTS.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "agents.instructions.scoped-agents",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates-agent-workflow/minimal/docs/AGENTS.md",
+        "templates-agent-workflow/comprehensive/docs/AGENTS.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "agents.rules.coding",
+      "previous_disposition": "MERGE",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/engineering/coding-conventions.md",
+        "templates/minimal/docs/engineering.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "agents.rules.testing",
+      "previous_disposition": "MERGE",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/engineering/testing-strategy.md",
+        "templates/minimal/docs/engineering.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "agents.rules.frontend",
+      "previous_disposition": "MERGE",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/experience/component-guidelines.md",
+        "templates/minimal/docs/experience.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "agents.rules.backend",
+      "previous_disposition": "MERGE",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/interfaces/api-conventions.md",
+        "templates/minimal/docs/interfaces.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "agents.rules.database",
+      "previous_disposition": "MERGE",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/data/persistence.md",
+        "templates/minimal/docs/data.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "agents.rules.security",
+      "previous_disposition": "MERGE",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/security/secure-development.md",
+        "templates/minimal/docs/security.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "agents.rules.documentation",
+      "previous_disposition": "MERGE",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/engineering/documentation-maintenance.md",
+        "templates/minimal/docs/engineering.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "agents.skills.skill-template",
+      "previous_disposition": "EXCLUDE",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates-agent-workflow/minimal/.claude/skills/project-review/SKILL.md",
+        "templates-agent-workflow/minimal/.agents/skills/project-review/SKILL.md",
+        "templates-agent-workflow/comprehensive/.claude/skills/project-review/SKILL.md",
+        "templates-agent-workflow/comprehensive/.agents/skills/project-review/SKILL.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "agents.hooks.safety-gate",
+      "previous_disposition": "EXCLUDE",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates-agent-workflow/minimal/docs/agent-workflow/hook-adoption.md",
+        "templates-agent-workflow/comprehensive/docs/agent-workflow/hook-adoption.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "agents.hooks.format-check",
+      "previous_disposition": "EXCLUDE",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates-agent-workflow/minimal/docs/agent-workflow/hook-adoption.md",
+        "templates-agent-workflow/comprehensive/docs/agent-workflow/hook-adoption.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "agents.hooks.verification",
+      "previous_disposition": "EXCLUDE",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates-agent-workflow/minimal/docs/agent-workflow/hook-adoption.md",
+        "templates-agent-workflow/comprehensive/docs/agent-workflow/hook-adoption.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "agents.mcp.config-example",
+      "previous_disposition": "EXCLUDE",
+      "current_disposition": "excluded-specific-runtime-configuration",
+      "targets": [],
+      "reason": "No generic target-project runtime/CI/MCP setup is prescribed; existing native authority remains project-specific. Historical input is preserved."
+    },
+    {
+      "id": "agents.context.context-map",
+      "previous_disposition": "MERGE",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/minimal/docs/README.md",
+        "templates/comprehensive/docs/README.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "agents.context.session-handoff",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates-agent-workflow/minimal/.local/agent/HANDOFF.md",
+        "templates-workspace/minimal/notes/project-name/HANDOFF.md",
+        "templates-agent-workflow/comprehensive/.local/agent/HANDOFF.md",
+        "templates-workspace/comprehensive/notes/project-name/HANDOFF.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "contracts.openapi",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/minimal/contracts/openapi.yaml",
+        "templates/comprehensive/contracts/openapi.yaml"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "contracts.asyncapi",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/minimal/contracts/asyncapi.yaml",
+        "templates/comprehensive/contracts/asyncapi.yaml"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "contracts.json-schema",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/minimal/contracts/json-schema.json",
+        "templates/comprehensive/contracts/json-schema.json"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "contracts.graphql",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/minimal/contracts/graphql.graphql",
+        "templates/comprehensive/contracts/graphql.graphql"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "contracts.protobuf",
+      "previous_disposition": "KEEP",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/minimal/contracts/protobuf.proto",
+        "templates/comprehensive/contracts/protobuf.proto"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "automation.github.ci",
+      "previous_disposition": "EXCLUDE",
+      "current_disposition": "excluded-specific-runtime-configuration",
+      "targets": [],
+      "reason": "No generic target-project runtime/CI/MCP setup is prescribed; existing native authority remains project-specific. Historical input is preserved."
+    },
+    {
+      "id": "automation.github.codeql",
+      "previous_disposition": "EXCLUDE",
+      "current_disposition": "excluded-specific-runtime-configuration",
+      "targets": [],
+      "reason": "No generic target-project runtime/CI/MCP setup is prescribed; existing native authority remains project-specific. Historical input is preserved."
+    },
+    {
+      "id": "automation.github.dependency-review",
+      "previous_disposition": "EXCLUDE",
+      "current_disposition": "excluded-specific-runtime-configuration",
+      "targets": [],
+      "reason": "No generic target-project runtime/CI/MCP setup is prescribed; existing native authority remains project-specific. Historical input is preserved."
+    },
+    {
+      "id": "automation.github.release",
+      "previous_disposition": "EXCLUDE",
+      "current_disposition": "excluded-specific-runtime-configuration",
+      "targets": [],
+      "reason": "No generic target-project runtime/CI/MCP setup is prescribed; existing native authority remains project-specific. Historical input is preserved."
+    },
+    {
+      "id": "automation.github.codeowners",
+      "previous_disposition": "MERGE",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/comprehensive/docs/operations/service-ownership.md",
+        "templates/minimal/docs/operations.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "automation.github.dependabot",
+      "previous_disposition": "EXCLUDE",
+      "current_disposition": "excluded-specific-runtime-configuration",
+      "targets": [],
+      "reason": "No generic target-project runtime/CI/MCP setup is prescribed; existing native authority remains project-specific. Historical input is preserved."
+    },
+    {
+      "id": "automation.github.bug-report",
+      "previous_disposition": "ADAPT",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/minimal/docs/delivery/requests/bug-report.md",
+        "templates/comprehensive/docs/delivery/requests/bug-report.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "automation.github.feature-request",
+      "previous_disposition": "ADAPT",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/minimal/docs/delivery/requests/feature-request.md",
+        "templates/comprehensive/docs/delivery/requests/feature-request.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "automation.github.template-request",
+      "previous_disposition": "ADAPT",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/minimal/docs/delivery/requests/template-request.md",
+        "templates/comprehensive/docs/delivery/requests/template-request.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "automation.github.documentation-issue",
+      "previous_disposition": "ADAPT",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/minimal/docs/delivery/requests/documentation-issue.md",
+        "templates/comprehensive/docs/delivery/requests/documentation-issue.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "automation.github.pull-request",
+      "previous_disposition": "ADAPT",
+      "current_disposition": "mapped",
+      "targets": [
+        "templates/minimal/docs/delivery/requests/pull-request.md",
+        "templates/comprehensive/docs/delivery/requests/pull-request.md",
+        "templates/minimal/docs/delivery.md"
+      ],
+      "reason": "Useful source responsibilities retained or refined."
+    },
+    {
+      "id": "automation.gitlab.ci",
+      "previous_disposition": "EXCLUDE",
+      "current_disposition": "excluded-specific-runtime-configuration",
+      "targets": [],
+      "reason": "No generic target-project runtime/CI/MCP setup is prescribed; existing native authority remains project-specific. Historical input is preserved."
+    },
+    {
+      "id": "automation.quality.pre-commit",
+      "previous_disposition": "EXCLUDE",
+      "current_disposition": "excluded-specific-runtime-configuration",
+      "targets": [],
+      "reason": "No generic target-project runtime/CI/MCP setup is prescribed; existing native authority remains project-specific. Historical input is preserved."
+    },
+    {
+      "id": "automation.quality.markdownlint",
+      "previous_disposition": "EXCLUDE",
+      "current_disposition": "excluded-specific-runtime-configuration",
+      "targets": [],
+      "reason": "No generic target-project runtime/CI/MCP setup is prescribed; existing native authority remains project-specific. Historical input is preserved."
+    },
+    {
+      "id": "automation.quality.secret-scan",
+      "previous_disposition": "EXCLUDE",
+      "current_disposition": "excluded-specific-runtime-configuration",
+      "targets": [],
+      "reason": "No generic target-project runtime/CI/MCP setup is prescribed; existing native authority remains project-specific. Historical input is preserved."
+    }
+  ]
+}

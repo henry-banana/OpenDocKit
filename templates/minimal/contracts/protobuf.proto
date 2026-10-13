@@ -1,0 +1,14 @@
+// OpenDocKit author guidance
+// ID: contracts.protobuf
+// Purpose: start a proto3 contract with no invented application fields.
+// Use when: RPC or binary consumers share a protobuf definition.
+// Copy and rename to .proto; replace package/message and define actual field tags.
+// Preserve compatibility: avoid reusing removed tags/names; reserve them as needed.
+// Describe semantic expectations, service errors and versioning separately.
+// Compile the expanded schema and test actual producers/consumers before release.
+syntax = "proto3";
+
+package replace_me;
+
+message ReplaceMe {
+}

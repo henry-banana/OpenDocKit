@@ -1,0 +1,16 @@
+# OpenDocKit author guidance
+# ID: contracts.asyncapi
+# Purpose: start an event interface definition with explicit version semantics.
+# Use when: producers and consumers need a machine-readable message contract.
+# Copy and adapt the fields; replace title/version and define actual channels,
+# messages, operations and servers for your chosen protocol. Explain occurrence,
+# delivery/replay guarantees and ownership in event documentation.
+# Empty channels/operations describe no application events. Validate your expanded
+# contract with the official AsyncAPI parser and test producer/consumer behavior.
+asyncapi: 3.0.0
+info:
+  title: '{{Event interface title}}'
+  version: '{{Contract version}}'
+  description: 'Authoring skeleton. Add the actual event interface.'
+channels: {}
+operations: {}

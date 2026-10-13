@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/replace-with-your-schema-id",
+  "$comment": "OpenDocKit author guidance. ID: contracts.json-schema. Copy and rename deliberately. Replace title and schema identity; add actual properties, constraints and required fields. Explicitly decide additionalProperties. This permissive skeleton expresses no product guarantees. Validate representative accepted and rejected values with the adopted schema. Document business meaning separately; remove this guidance before publishing.",
+  "title": "{{Value contract title}}",
+  "type": "object",
+  "properties": {},
+  "additionalProperties": true
+}

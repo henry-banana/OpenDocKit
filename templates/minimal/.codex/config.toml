@@ -1,0 +1,4 @@
+# Optional project settings. Merge with the trusted project configuration.
+# No provider credentials, model selection or remote plugin activation.
+approval_policy = "on-request"
+sandbox_mode = "workspace-write"

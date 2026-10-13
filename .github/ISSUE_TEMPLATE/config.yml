@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security reporting
+    url: https://github.com/henry-banana/OpenDocKit/security/policy
+    about: Follow the security policy before sharing sensitive details.

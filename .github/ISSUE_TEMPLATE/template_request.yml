@@ -1,0 +1,36 @@
+name: Template request
+description: Describe a documentation responsibility that existing templates do not cover.
+body:
+  - type: textarea
+    id: task
+    attributes:
+      label: Reader task or decision
+      description: Who needs this information, when, and what can they do after reading it?
+    validations:
+      required: true
+  - type: textarea
+    id: gap
+    attributes:
+      label: Gap in existing templates
+      description: Link the nearest existing source and explain why extending it would not cover the task.
+    validations:
+      required: true
+  - type: textarea
+    id: boundaries
+    attributes:
+      label: Scope and intended destination
+      description: Describe domain, minimal/comprehensive form, shared vs personal storage and overlap with existing authorities.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Practices or primary sources
+      description: Link relevant repository files or official standards. Distinguish observed practice from your proposal; sources are helpful but optional.
+  - type: textarea
+    id: completion
+    attributes:
+      label: What would make this useful?
+      description: Give a concrete filling scenario and the acceptance criteria.
+    validations:
+      required: true

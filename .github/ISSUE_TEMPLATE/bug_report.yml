@@ -1,0 +1,48 @@
+name: Bug report
+description: Report a broken template, link, contract sample or maintainer check.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        For sensitive reports, follow the [security policy](https://github.com/henry-banana/OpenDocKit/security/policy).
+        Include safe, minimal evidence. Remove private project information and credentials.
+  - type: input
+    id: revision
+    attributes:
+      label: Version or commit
+      description: Identify the source you copied or the checkout being tested.
+      placeholder: Commit SHA, tag or branch
+    validations:
+      required: true
+  - type: textarea
+    id: affected
+    attributes:
+      label: Affected paths
+      description: Include minimal/comprehensive and the source or adopted destination.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: Include the smallest copy/fill scenario or exact failing command.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: observed
+    attributes:
+      label: Actual behavior and evidence
+      description: Paste relevant diagnostics or a safe screenshot. State checks that were not run.
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment, if relevant
+      description: OS, Python version and selected agent/client version. Syntax validation and client loading are separate evidence.

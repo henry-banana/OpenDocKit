@@ -1,0 +1,20 @@
+name: Improvement or question
+description: Discuss navigation, wording, workflow or maintainer tooling.
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or question
+      description: State the outcome you need and include relevant paths or existing issues.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change, if any
+      description: Explain the benefit and tradeoffs. Questions do not require a solution.
+  - type: textarea
+    id: validation
+    attributes:
+      label: Evidence or way to check the result
+      description: Include supporting sources or a practical scenario where the change helps.
