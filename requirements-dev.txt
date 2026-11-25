@@ -1,5 +1,5 @@
 # Maintainer checks only. Copying and filling templates needs no runtime.
-PyYAML==6.0.3
+PyYAML==6.0.4
 jsonschema==4.26.0
 graphql-core==3.3.0
 grpcio-tools==1.84.0
